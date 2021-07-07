@@ -40,18 +40,17 @@ for facility in table.find_all('span', class_="hprt-facilities-facility"):
     facilities.append(facility.text.strip())
 print(facilities)
 for row in table.find_all('tr', class_="js-rt-block-row"):
-    RoomType = table.find('a', class_="hprt-roomtype-link").span.text.strip()
+    #RoomType = table.find('a', class_="hprt-roomtype-link").span.text.strip()
     RoomId = row.attrs['data-block-id'].rsplit('_', 4)[0]
-    firstRoomId = table.find('a', class_="hprt-roomtype-link").attrs['data-room-id']
-    # if(RoomId == firstRoomId):
-    #     print(RoomType)
-    # else:
-    #     j = j+1
-    #     firstRoomId = table.find_all('a', class_="hprt-roomtype-link")[j].text.strip()
-    #     print(firstRoomId)
-
+    #firstRoomId = table.find('a', class_="hprt-roomtype-link").attrs['data-room-id']
     print("Room Id:",RoomId)
-    int(RoomId)
+    for firstcell in row.find_all('td', class_="-first"):
+        firstR = firstcell.find('a', class_="hprt-roomtype-link").attrs['data-room-id']
+        RoomType = firstcell.find('a', class_="hprt-roomtype-link").span.text.strip()
+    #print(firstR)
+    if(firstR == RoomId):
+        print("Room Type :",RoomType)
+
     Sleeps = row.find('span', class_="bui-u-sr-only").text.strip()
     print("Sleeps :",Sleeps)
     Price = row.find('span', class_="prco-valign-middle-helper").text.strip()
@@ -74,6 +73,7 @@ for li in ul.find_all('li', class_="v2_review-scores__subscore"):
     scores.append(score_title +" : "+ score_bar)
 print("Scores :", scores)
 print("")
+
 checkin = soup.find('a', class_="av-summary-checkin").text.strip()
 checkout = soup.find('a', class_="av-summary-checkout").text.strip()
 print("Check In Date :",checkin)
