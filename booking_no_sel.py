@@ -10,6 +10,8 @@ links = []
 my_location = "Kastelorizo"
 i = 0
 headers = []
+facilities = []
+scores = []
 
 in_month = 7
 in_day = 25
@@ -63,12 +65,15 @@ for page in pages:
     #ftiaxnw lista me ola ta urls twn ksenodoxeiwn
     for a in soup.find_all('a', {'class':'hotel_name_link'}):
         links.insert(0, a['href'].strip())
-links.reverse()
+    links.reverse()
+    print(links)
+
 print(str(len(links))+" urls found")
 
 while i < 2: #len(links):
-    page = requests.get('https://booking.com'+links[i])
+    page = requests.get('https://booking.com'+links[i], headers = headers)
     soup = bs(page.content, 'lxml')
+
     title = soup.find('h2', class_='hp__hotel-name').text.strip()
     print(title)
     address = soup.find('span', class_='hp_address_subtitle').text.strip()
@@ -77,4 +82,51 @@ while i < 2: #len(links):
     print(reviews)
     rating = soup.find('div', class_='e5a32fd86b').text.strip()
     print(rating)
+
+    table = soup.find('table', class_="hprt-table")
+
+    for facility_temp in table.find_all('div', class_="hprt-facilities-facility"):
+        facilities.append(facility_temp.span.text.strip())
+    for facility in table.find_all('span', class_="hprt-facilities-facility"):
+        facilities.append(facility.text.strip())
+    print(facilities)
+    for row in table.find_all('tr', class_="js-rt-block-row"):
+        #RoomType = table.find('a', class_="hprt-roomtype-link").span.text.strip()
+        RoomId = row.attrs['data-block-id'].rsplit('_', 4)[0]
+        #firstRoomId = table.find('a', class_="hprt-roomtype-link").attrs['data-room-id']
+        print("Room Id:",RoomId)
+        for firstcell in row.find_all('td', class_="-first"):
+            firstR = firstcell.find('a', class_="hprt-roomtype-link").attrs['data-room-id']
+            RoomType = firstcell.find('a', class_="hprt-roomtype-link").span.text.strip()
+        #print(firstR)
+        if(firstR == RoomId):
+            print("Room Type :",RoomType)
+
+        Sleeps = row.find('span', class_="bui-u-sr-only").text.strip()
+        print("Sleeps :",Sleeps)
+        Price = row.find('span', class_="prco-valign-middle-helper").text.strip()
+        print("Price :",Price)
+        Choices_temp = row.find('ul', class_="hprt-conditions").text
+        Choices = " ".join(Choices_temp.split())
+        print("Choices :",Choices)
+        Select = row.find('select', class_="hprt-nos-select")
+        options = []
+        for option in Select.find_all('option'):
+            #print(option.text.strip())
+            options.append(option.text.strip().replace("\n\xa0\n\xa0\xa0\xa0\n"," ").replace("\xa0",""))
+        Rooms = options[1:]
+        print("Price per Room :", Rooms)
+        print("")
+    ul = soup.find('ul', class_="v2_review-scores__subscore__inner")
+    for li in ul.find_all('li', class_="v2_review-scores__subscore"):
+        score_title = li.find('span', class_="c-score-bar__title").text.strip()
+        score_bar = li.find('span', class_="c-score-bar__score").text.strip()
+        scores.append(score_title +" : "+ score_bar)
+    print("Scores :", scores)
+    print("")
+
+    checkin = soup.find('a', class_="av-summary-checkin").text.strip()
+    checkout = soup.find('a', class_="av-summary-checkout").text.strip()
+    print("Check In Date :",checkin)
+    print("Check out Date :",checkout)
     i = i+1
