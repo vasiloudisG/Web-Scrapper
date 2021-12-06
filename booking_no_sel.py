@@ -125,11 +125,11 @@ while i < len(links):
     #print("")
 
     hotel_id = soup.find('p', class_='hp-lists-counter').attrs['data-hotel-id'].strip()
-    #print("Hotel ID :"+ hotel_id)
+    print("Hotel ID :"+ hotel_id)
     img_link = soup.find('img', class_='hide').attrs['src']
     #print("Image link :"+img_link)
     hotel_link = links[i]
-    #print("Hotel link :"+ hotel_link)
+    print("Hotel link :"+ hotel_link)
     #name = soup.find('h2', class_='hp__hotel-name').text.strip()
     #print(name)
     name_temp = soup.find('h2', class_='hp__hotel-name')
