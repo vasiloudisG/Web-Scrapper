@@ -51,7 +51,7 @@ total_days = l_date - f_date
 
 #my_db.basic_data.insert_one({"in_year" : in_year ,"out_year" : out_year, "in_month" : in_month, "out_month" : out_month, "in_day" : in_day, "out_day" : out_day , "people" : people, "city" : city, "country" : country})
 
-#exit() 
+#exit()
 link = "https://www.booking.com/searchresults.html?checkin_month={in_month}&checkin_monthday={in_day}" \
     "&checkin_year={in_year}&checkout_month={out_month}&checkout_monthday={out_day}&checkout_year={out_year}" \
     "&group_adults={people}&group_children=0&order=price&ss={city}%2C%20{country}" \
@@ -175,20 +175,20 @@ while i < len(links):
 
 
 
-       
+
         sleep_temp = row.find('span', class_="bui-u-sr-only").text.strip()
-        if ('-' in sleep_temp):  
+        if ('-' in sleep_temp):
             sleep = sleep_temp.split('-')[1].split('g')[0].strip()
-            #print(sleep) 
+            #print(sleep)
         else:
             sleep = sleep_temp.split(':')[1].strip()
             #print(sleep)
-                   
+
 
 
 
         #print("Sleeps :",int(sleep))
-        
+
         price_temp = row.find('span', class_="prco-valign-middle-helper").text.strip()
         price = price_temp.split()[1]
         if ',' in price:
@@ -201,7 +201,7 @@ while i < len(links):
         for li2 in ul2.find_all('li', class_="bui-list__item"):
             choice = li2.find('div', class_="bui-list__description").text.strip()
             choices.append(choice)
-       
+
         #print(choices)
         #print("Choices :",choices)
         select = row.find('select', class_="hprt-nos-select")
@@ -215,7 +215,7 @@ while i < len(links):
 
         rooms += [ {"id": roomId, "type": roomType,"facilities": facilities, "sleeps": sleeps}]
         facilities = []
-        
+
         #print(sleeps)
         # for facility_temp in row.find_all('div', class_="hprt-facilities-facility"):
         #     facilities.append(facility_temp.span.text.strip())
@@ -223,7 +223,7 @@ while i < len(links):
         #     facilities.append(facility.text.strip())
         # print(facilities)
         # facilities = []
-    
+
 
     #print("----------------------------------------------------------------------------------------")
 
@@ -243,5 +243,5 @@ while i < len(links):
     sleeps = []
     scores = []
     facilities = []
-    
+
     i = i+1
