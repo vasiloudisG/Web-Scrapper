@@ -29,6 +29,8 @@ jobs:
           python-version: '3.8'
       - name: Create requirements
         run: pip freeze > requirements.txt
+      - name: Install requests
+        run: pip install requests       
       - name: Install requirements
         run: pip install -r requirements.txt
       - name: Run Scraper
