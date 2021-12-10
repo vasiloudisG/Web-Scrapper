@@ -189,7 +189,7 @@ while i < len(links):
         #print("Sleeps :",int(sleep))
 
         price_temp = row.find('span', class_="prco-valign-middle-helper").text.strip()
-        price = price_temp.split()[1]
+        price = price_temp.split('€')[1] 
         if ',' in price:
             price = price.replace(",", "")
         #print("Price :",price)
@@ -210,7 +210,7 @@ while i < len(links):
             options.append(option.text.strip().replace("\n\xa0\n\xa0\xa0\xa0\n"," ").replace("\xa0",""))
         price_per_room = options[1:]
         #print("Price per Room :", price_per_room)
-        sleeps = [ {"max_persons": int(sleep), "price": int(price), "choices": choices," price_per_room": price_per_room} ]
+        sleeps = [ {"max_persons": int(sleep), "price": int(price.strip()), "choices": choices," price_per_room": price_per_room} ]
 
         rooms += [ {"id": roomId, "type": roomType,"facilities": facilities, "sleeps": sleeps}]
         facilities = []
