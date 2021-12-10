@@ -52,6 +52,7 @@ total_days = l_date - f_date
 link = "https://www.booking.com/searchresults.html?checkin_month={in_month}&checkin_monthday={in_day}" \
     "&checkin_year={in_year}&checkout_month={out_month}&checkout_monthday={out_day}&checkout_year={out_year}" \
     "&group_adults={people}&group_children=0&order=price&ss={city}%2C%20{country}" \
+    ";changed_currency=1;selected_currency=EUR;top_currency=1" \
         .format(in_month=my_db.basic_data.find_one({"in_month" : in_month})['in_month'],
                 in_day=my_db.basic_data.find_one({"in_day" : in_day})['in_day'],
                 in_year=my_db.basic_data.find_one({"in_year" : in_year})['in_year'],
@@ -95,6 +96,7 @@ for page in pages:
         links.insert(0, a['href'].strip())
     #links.reverse()
     #print(links)
+
 #print(links)
 print(str(len(links))+" urls found")
 #print(links[0])
@@ -125,7 +127,7 @@ while i < len(links):
     #print("Hotel ID :"+ hotel_id)
     img_link = soup.find('img', class_='hide').attrs['src']
     #print("Image link :"+img_link)
-    hotel_link = links[i]
+    hotel_link = links[i].split('?', 1)[0]
     #print("Hotel link :"+ hotel_link)
     #name = soup.find('h2', class_='hp__hotel-name').text.strip()
     #print(name)
