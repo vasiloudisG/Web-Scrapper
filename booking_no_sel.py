@@ -93,15 +93,15 @@ for page in pages:
     #ftiaxnw lista me ola ta urls twn ksenodoxeiwn
     #for a in soup.find_all('a', {'class':'hotel_name_link'}):
     for a in soup.find_all('a', {'class':'fb01724e5b'}):
-        links.insert(0, a['href'].strip()+";changed_currency=1;selected_currency=EUR;top_currency=1")
+        links.insert(0, a['href'].strip()+";changed_currency=1;selected_currency=AUD;top_currency=1")
     #links.reverse()
     #print(links)
 
 #exit()
 print(str(len(links))+" urls found")
 #print(links[0])
-
-while i < 2: #len(links):
+#exit()
+while i < len(links):
     # page = requests.get('https://booking.com'+links[i], headers = headers)
     page = requests.get(links[i], headers = headers)
     soup = bs(page.content, 'lxml')
@@ -189,10 +189,15 @@ while i < 2: #len(links):
         #print("Sleeps :",int(sleep))
 
         price_temp = row.find('span', class_="prco-valign-middle-helper").text.strip()
-        print(price_temp)
-        price = price_temp.split('€')[1] 
-        if ',' in price:
-            price = price.replace(",", "")
+        #print(price_temp)
+        temp = re.findall(r'\d+', price_temp)
+        price = list(temp)
+        #print("".join(price))
+        
+        #price = price_temp.split('€')[1] 
+        #if ',' in price:
+           #price = price.replace(",", "")
+        
         #print("Price :",price)
         # choices_temp = row.find('td', class_="hprt-table-cell-conditions").text
         # choices = " ".join(choices_temp.split())
@@ -211,7 +216,7 @@ while i < 2: #len(links):
             options.append(option.text.strip().replace("\n\xa0\n\xa0\xa0\xa0\n"," ").replace("\xa0",""))
         price_per_room = options[1:]
         #print("Price per Room :", price_per_room)
-        sleeps = [ {"max_persons": int(sleep), "price": int(price.strip()), "choices": choices," price_per_room": price_per_room} ]
+        sleeps = [ {"max_persons": int(sleep), "price": int("".join(price)), "choices": choices," price_per_room": price_per_room} ]
 
         rooms += [ {"id": roomId, "type": roomType,"facilities": facilities, "sleeps": sleeps}]
         facilities = []
@@ -237,8 +242,8 @@ while i < 2: #len(links):
     #my_collection.update_one({"check_in": checkin,"check_out": checkout},{ "$set": { "scores": scores, "hotel": hotel} }, True)
     #my_collection.insert({"check_in": checkin,"check_out": checkout,"scores": scores, "hotel": hotel}) #insert doulevei
 
-
-    #my_collection.update_one({'hotel_id':int(hotel_id)},{"$set": {"scores": scores, "hotel": hotel}}, True)
+    
+    my_collection.update_one({'hotel_id':int(hotel_id)},{"$set": {"scores": scores, "hotel": hotel}}, True)
     rooms = []
     sleeps = []
     scores = []
