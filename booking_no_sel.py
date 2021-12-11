@@ -93,15 +93,15 @@ for page in pages:
     #ftiaxnw lista me ola ta urls twn ksenodoxeiwn
     #for a in soup.find_all('a', {'class':'hotel_name_link'}):
     for a in soup.find_all('a', {'class':'fb01724e5b'}):
-        links.insert(0, a['href'].strip())
+        links.insert(0, a['href'].strip()+";changed_currency=1;selected_currency=EUR;top_currency=1")
     #links.reverse()
     #print(links)
 
-#print(links)
+#exit()
 print(str(len(links))+" urls found")
 #print(links[0])
 
-while i < 5: #len(links):
+while i < 2: #len(links):
     # page = requests.get('https://booking.com'+links[i], headers = headers)
     page = requests.get(links[i], headers = headers)
     soup = bs(page.content, 'lxml')
