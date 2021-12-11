@@ -101,7 +101,7 @@ for page in pages:
 print(str(len(links))+" urls found")
 #print(links[0])
 
-while i < len(links):
+while i < 5: #len(links):
     # page = requests.get('https://booking.com'+links[i], headers = headers)
     page = requests.get(links[i], headers = headers)
     soup = bs(page.content, 'lxml')
@@ -189,6 +189,7 @@ while i < len(links):
         #print("Sleeps :",int(sleep))
 
         price_temp = row.find('span', class_="prco-valign-middle-helper").text.strip()
+        print(price_temp)
         price = price_temp.split('€')[1] 
         if ',' in price:
             price = price.replace(",", "")
@@ -237,7 +238,7 @@ while i < len(links):
     #my_collection.insert({"check_in": checkin,"check_out": checkout,"scores": scores, "hotel": hotel}) #insert doulevei
 
 
-    my_collection.update_one({'hotel_id':int(hotel_id)},{"$set": {"scores": scores, "hotel": hotel}}, True)
+    #my_collection.update_one({'hotel_id':int(hotel_id)},{"$set": {"scores": scores, "hotel": hotel}}, True)
     rooms = []
     sleeps = []
     scores = []
