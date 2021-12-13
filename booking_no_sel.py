@@ -5,7 +5,7 @@ import pymongo
 from pymongo import MongoClient
 import numpy as np
 import re
-from datetime import date
+from datetime import date, datetime
 # from requests.exceptions import ConnectionError
 # import time
 
@@ -25,6 +25,7 @@ cluster = MongoClient("mongodb+srv://Vasiloudis:Vasiloudis@myCluster.bjuk6.mongo
 my_db = cluster["booking"]
 my_collection = my_db["hotels"]
 basic_data = my_db["basic_data"]
+basic_datas = my_db["basic_datas"]
 # test = {"id": 0, "name": "a Name", "age": 25}
 # my_collection.insert_one(test)
 
@@ -48,20 +49,24 @@ total_days = l_date - f_date
 
 #my_db.basic_data.insert_one({"in_year" : in_year ,"out_year" : out_year, "in_month" : in_month, "out_month" : out_month, "in_day" : in_day, "out_day" : out_day , "people" : people, "city" : city, "country" : country})
 
+now = datetime.now()
+current_time = now.strftime("%H:%M:%S")
+#print("Scraper Started at : ", current_time)
+
 #exit()
 link = "https://www.booking.com/searchresults.html?checkin_month={in_month}&checkin_monthday={in_day}" \
     "&checkin_year={in_year}&checkout_month={out_month}&checkout_monthday={out_day}&checkout_year={out_year}" \
     "&group_adults={people}&group_children=0&order=price&ss={city}%2C%20{country}" \
     ";changed_currency=1;selected_currency=EUR;top_currency=1" \
-        .format(in_month=my_db.basic_data.find_one({"in_month" : in_month})['in_month'],
-                in_day=my_db.basic_data.find_one({"in_day" : in_day})['in_day'],
-                in_year=my_db.basic_data.find_one({"in_year" : in_year})['in_year'],
-                out_month=my_db.basic_data.find_one({"out_month" : out_month})['out_month'],
-                out_day=my_db.basic_data.find_one({"out_day" : out_day})['out_day'],
-                out_year=my_db.basic_data.find_one({"out_year" : out_year})['out_year'],
-                people=my_db.basic_data.find_one({"people" : people})['people'],
-                city=my_db.basic_data.find_one({"city" : city})['city'],
-                country=my_db.basic_data.find_one({"country" : country})['country'])
+        .format(in_month=my_db.basic_datas.find_one()['in_month'],
+                in_day=my_db.basic_datas.find_one()['in_day'],
+                in_year=my_db.basic_datas.find_one()['in_year'],
+                out_month=my_db.basic_datas.find_one()['out_month'],
+                out_day=my_db.basic_datas.find_one()['out_day'],
+                out_year=my_db.basic_datas.find_one()['out_year'],
+                people=my_db.basic_datas.find_one()['people'],
+                city=my_db.basic_datas.find_one()['city'],
+                country=my_db.basic_datas.find_one()['country'])
 
 print(link)
 #exit()
@@ -81,7 +86,7 @@ print(number+" Hotels")
 loopnumber = round(np.ceil(int(float(number)/25))) #vriskw ton arithmo twn selidwn gia na kanw loop oles tis selides
 print(str(loopnumber+1)+" Pages")
 
-
+#exit()
 pages = np.arange(0, loopnumber+1, 1)
 #print(pages)
 
@@ -137,8 +142,13 @@ while i < len(links):
     name = str(name_temp).split("</span>")[1].split("<")[0].strip()
     #print(name)
     address = soup.find('span', class_='hp_address_subtitle').text.strip()
-    #print(address)
-    reviews = soup.find('div', class_='_4abc4c3d5').text.strip().split()[0] if soup.find('div', class_='_4abc4c3d5') else -1
+    #print(address)   
+    if soup.find('div', class_='_4abc4c3d5'):
+        reviews = soup.find('div', class_='_4abc4c3d5').text.strip().split()[0] 
+        if ',' in reviews:
+            reviews = reviews.replace(",", "")
+    else:
+        reviews = -1  
     #print(reviews)
     rating = soup.find('div', class_='_9c5f726ff').text.strip() if soup.find('div', class_='_9c5f726ff') else -1
     if rating != -1 and len(rating) > 5 :
@@ -157,7 +167,7 @@ while i < len(links):
         #print("Room Id:",roomId)
 
         for firstcell in row.find_all('td', class_="-first"):
-            firstR = firstcell.find('a', class_="hprt-roomtype-link").attrs['data-room-id']
+            #firstR = firstcell.find('a', class_="hprt-roomtype-link").attrs['data-room-id']
             roomType = firstcell.find('a', class_="hprt-roomtype-link").span.text.strip()
 
         for facility_temp in row.find_all('div', class_="hprt-facilities-facility"):
@@ -250,3 +260,7 @@ while i < len(links):
     facilities = []
 
     i = i+1
+
+end = datetime.now()
+current_time = end.strftime("%H:%M:%S")
+#print("Scraper Finished at : ", current_time)
