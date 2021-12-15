@@ -113,8 +113,8 @@ while i < len(links):
     page = requests.get(links[i], headers = headers)
     soup = bs(page.content, 'lxml')
 
-    checkin = soup.find('a', class_="av-summary-checkin").text.strip()
-    checkout = soup.find('a', class_="av-summary-checkout").text.strip()
+    #checkin = soup.find('a', class_="av-summary-checkin").text.strip()
+    #checkout = soup.find('a', class_="av-summary-checkout").text.strip()
     #print("Check In Date :",checkin)
     #print("Check out Date :",checkout)
     ul = soup.find('ul', class_="v2_review-scores__subscore__inner")
