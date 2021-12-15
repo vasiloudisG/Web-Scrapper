@@ -6,6 +6,7 @@ from pymongo import MongoClient
 import numpy as np
 import re
 from datetime import date, datetime
+import random
 # from requests.exceptions import ConnectionError
 # import time
 
@@ -19,6 +20,7 @@ choices = []
 rooms = []
 sleeps = []
 hotel = []
+imgs = []
 
 #db
 cluster = MongoClient("mongodb+srv://Vasiloudis:Vasiloudis@myCluster.bjuk6.mongodb.net/booking?ssl=true&ssl_cert_reqs=CERT_NONE")
@@ -155,7 +157,14 @@ while i < len(links):
         rating = rating.split()[1]
     #print(rating)
     #print("")
-
+    photo_div = soup.find('div', class_='bh-photo-grid') 
+    try:
+        photo_div.find('div', class_="reviews-carousel-container").extract()
+    except AttributeError:
+        pass  # sometimes there is no 'reviews-carousel-container'
+    for img in photo_div.find_all('img'):
+        imgs.append(img['src'])
+    random.shuffle(imgs)
 
     table = soup.find('table', class_="hprt-table")
 
@@ -227,10 +236,11 @@ while i < len(links):
         price_per_room = options[1:]
         #print("Price per Room :", price_per_room)
         sleeps = [ {"max_persons": int(sleep), "price": int("".join(price)), "choices": choices," price_per_room": price_per_room} ]
-
-        rooms += [ {"id": roomId, "type": roomType,"facilities": facilities, "sleeps": sleeps}]
+        #print(imgs)
+        rooms += [ {"id": roomId, "type": roomType,"facilities": facilities,"room_imgs":imgs, "sleeps": sleeps}]
+        
         facilities = []
-
+        #print(rooms)
         #print(sleeps)
         # for facility_temp in row.find_all('div', class_="hprt-facilities-facility"):
         #     facilities.append(facility_temp.span.text.strip())
@@ -238,7 +248,9 @@ while i < len(links):
         #     facilities.append(facility.text.strip())
         # print(facilities)
         # facilities = []
-
+    
+    #imgs.clear()
+    
 
     #print("----------------------------------------------------------------------------------------")
 
@@ -251,14 +263,14 @@ while i < len(links):
     #print(hotel)
     #my_collection.update_one({"check_in": checkin,"check_out": checkout},{ "$set": { "scores": scores, "hotel": hotel} }, True)
     #my_collection.insert({"check_in": checkin,"check_out": checkout,"scores": scores, "hotel": hotel}) #insert doulevei
-
+    
     
     my_collection.update_one({'hotel_id':int(hotel_id)},{"$set": {"scores": scores, "hotel": hotel}}, True)
     rooms = []
     sleeps = []
     scores = []
     facilities = []
-
+    imgs.clear()
     i = i+1
 
 end = datetime.now()
