@@ -34,18 +34,20 @@ basic_datas = my_db["basic_datas"]
 
 #my_collection.drop() #gia delete collection
 
-in_month = 1
-in_day = 20
-in_year = 2022
-out_month = 1
-out_day = 30
-out_year = 2022
-people = 1
-city = "Skiathos"
-country = "Greece"
+# in_month = 1
+# in_day = 20
+# in_year = 2022
+# out_month = 1
+# out_day = 30
+# out_year = 2022
+# people = 1
+# city = "Skiathos"
+# country = "Greece"
 
-f_date = date(in_year, in_month, in_day)
-l_date = date(out_year, out_month, out_day)
+f_date = date(my_db.basic_datas.find_one()['in_year'], my_db.basic_datas.find_one()['in_month'], my_db.basic_datas.find_one()['in_day'])
+l_date = date(my_db.basic_datas.find_one()['out_year'], my_db.basic_datas.find_one()['out_month'], my_db.basic_datas.find_one()['out_day'])
+# print(f_date)
+# print(l_date)
 total_days = l_date - f_date
 #print(total_days.days)
 
