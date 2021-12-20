@@ -7,6 +7,7 @@ import numpy as np
 import re
 from datetime import date, datetime
 import random
+from random import randint
 # from requests.exceptions import ConnectionError
 # import time
 
@@ -58,15 +59,18 @@ current_time = now.strftime("%H:%M:%S")
 print("Scraper Started at : ", current_time)
 
 #exit()
+today = int(str(date.today()).split('-')[2])
+tomorrow = int(str(date.today()).split('-')[2])+1
+
 link = "https://www.booking.com/searchresults.html?checkin_month={in_month}&checkin_monthday={in_day}" \
     "&checkin_year={in_year}&checkout_month={out_month}&checkout_monthday={out_day}&checkout_year={out_year}" \
     "&group_adults={people}&group_children=0&order=price&ss={city}%2C%20{country}" \
     ";changed_currency=1;selected_currency=EUR;top_currency=1" \
         .format(in_month=my_db.basic_datas.find_one()['in_month'],
-                in_day=my_db.basic_datas.find_one()['in_day'],
+                in_day=str(today),#my_db.basic_datas.find_one()['in_day'],
                 in_year=my_db.basic_datas.find_one()['in_year'],
                 out_month=my_db.basic_datas.find_one()['out_month'],
-                out_day=my_db.basic_datas.find_one()['out_day'],
+                out_day=str(tomorrow),#my_db.basic_datas.find_one()['out_day'],
                 out_year=my_db.basic_datas.find_one()['out_year'],
                 people=my_db.basic_datas.find_one()['people'],
                 city=my_db.basic_datas.find_one()['city'],
@@ -131,8 +135,9 @@ while i < len(links):
         #print("No Scores found")
         scores = []
     #print("")
+    random_id = randint(100000, 9999999)
 
-    hotel_id = soup.find('div', class_='hp-lists').attrs['data-hotel-id'].strip()
+    hotel_id = soup.find('div', class_='hp-lists').attrs['data-hotel-id'].strip() if soup.find('div', class_='hp-lists'.attrs['data-hotel-id']) else random_id
     #print("Hotel ID :"+ hotel_id)
     img_link = soup.find('img', class_='hide').attrs['src']
     #print("Image link :"+img_link)
@@ -261,7 +266,7 @@ while i < len(links):
 
     #sleeps = [ {"persons": sleep, "price": price, "choices": choices,"facilities": facilities," price_per_room": price_per_room} ]
     #rooms = [ {"id": roomId, "type": roomType, "sleeps": sleeps}]
-    hotel = {"days": int(str(total_days).split(' ')[0]),"link": hotel_link, "icon": img_link, "name": name, "type": type, "address": address, "reviews": int(reviews), "rating": float(rating), "rooms": rooms}
+    hotel = {"days": int(str(total_days).split(' ')[0])+1,"link": hotel_link, "icon": img_link, "name": name, "type": type, "address": address, "reviews": int(reviews), "rating": float(rating), "rooms": rooms}
     #print(hotel)
     #my_collection.update_one({"check_in": checkin,"check_out": checkout},{ "$set": { "scores": scores, "hotel": hotel} }, True)
     #my_collection.insert({"check_in": checkin,"check_out": checkout,"scores": scores, "hotel": hotel}) #insert doulevei
