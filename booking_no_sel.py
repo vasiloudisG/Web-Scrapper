@@ -8,6 +8,7 @@ import re
 from datetime import date, datetime
 import random
 from random import randint
+import csv
 # from requests.exceptions import ConnectionError
 # import time
 
@@ -45,6 +46,7 @@ basic_datas = my_db["basic_datas"]
 # city = "Skiathos"
 # country = "Greece"
 
+todate = datetime.today().strftime('%Y-%m-%d')
 f_date = date(my_db.basic_datas.find_one()['in_year'], my_db.basic_datas.find_one()['in_month'], my_db.basic_datas.find_one()['in_day'])
 l_date = date(my_db.basic_datas.find_one()['out_year'], my_db.basic_datas.find_one()['out_month'], my_db.basic_datas.find_one()['out_day'])
 # print(f_date)
@@ -78,6 +80,12 @@ link = "https://www.booking.com/searchresults.html?checkin_month={in_month}&chec
 
 print(link)
 #exit()
+#csv header
+# header = ['Date','Hotel Name','Hotel ID','Room Name','Room ID','Price']
+# with open('Rooms.csv', 'a', encoding='UTF8', newline='') as f:
+#     writer = csv.writer(f)
+#     writer.writerow(header)
+
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36"} # Windows 10 with Google Chrome
 
@@ -149,6 +157,8 @@ while i < len(links):
     type = name_temp.find('span', class_="bui-badge").text.strip() if name_temp.find('span', class_="bui-badge") else  name_temp.find('span', class_="hp__hotel-type-badge").text.strip()
     #print(type)
     name = str(name_temp).split("</span>")[1].split("<")[0].strip()
+    if name == "" : #if its new to booking
+        name = soup.find('h2', class_="hp__hotel-name").text.strip().split("\n\n")[-1].strip()
     #print(name)
     address = soup.find('span', class_='hp_address_subtitle').text.strip()
     #print(address)   
@@ -218,6 +228,7 @@ while i < len(links):
         #print(price_temp)
         temp = re.findall(r'\d+', price_temp)
         price = list(temp)
+        price = "".join(price)
         #print("".join(price))
         
         #price = price_temp.split('€')[1] 
@@ -242,11 +253,18 @@ while i < len(links):
             options.append(option.text.strip().replace("\n\xa0\n\xa0\xa0\xa0\n"," ").replace("\xa0",""))
         price_per_room = options[1:]
         #print("Price per Room :", price_per_room)
-        sleeps = [ {"max_persons": int(sleep), "price": int("".join(price)), "choices": choices," price_per_room": price_per_room} ]
+        sleeps = [ {"max_persons": int(sleep), "price": int(price), "choices": choices," price_per_room": price_per_room} ]
         #print(imgs)
         rooms += [ {"id": roomId, "type": roomType,"facilities": facilities,"room_imgs":imgs, "sleeps": sleeps}]
         
         facilities = []
+
+
+        data = [todate,name,hotel_id,roomType,roomId,price]
+        with open('Rooms.csv', 'a', encoding='UTF8', newline='') as f:
+            writer = csv.writer(f)
+            #writer.writerow(header)
+            writer.writerow(data)
         #print(rooms)
         #print(sleeps)
         # for facility_temp in row.find_all('div', class_="hprt-facilities-facility"):
