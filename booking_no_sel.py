@@ -261,7 +261,7 @@ while i < len(links):
 
 
         data = [todate,name,hotel_id,roomType,roomId,price]
-        with open('Rooms.csv', 'a', encoding='UTF8', newline='') as f:
+        with open(todate+'-Rooms.csv', 'a', encoding='UTF8', newline='') as f:
             writer = csv.writer(f)
             #writer.writerow(header)
             writer.writerow(data)
