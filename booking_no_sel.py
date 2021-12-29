@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup as bs
-import subprocess
 import pymongo
 from pymongo import MongoClient
 import numpy as np
@@ -81,10 +80,11 @@ link = "https://www.booking.com/searchresults.html?checkin_month={in_month}&chec
 print(link)
 #exit()
 #csv header
-# header = ['Date','Hotel Name','Hotel ID','Room Name','Room ID','Price']
-# with open('Rooms.csv', 'a', encoding='UTF8', newline='') as f:
-#     writer = csv.writer(f)
-#     writer.writerow(header)
+header = ['Date','Hotel Name','Hotel ID','Room Name','Room ID','Price']
+with open('dpr/'+todate+'-Rooms.csv', 'a', encoding='UTF8', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(header)
+            
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36"} # Windows 10 with Google Chrome
@@ -261,7 +261,7 @@ while i < len(links):
 
 
         data = [todate,name,hotel_id,roomType,roomId,price]
-        with open(todate+'-Rooms.csv', 'a', encoding='UTF8', newline='') as f:
+        with open('dpr/'+todate+'-Rooms.csv', 'a', encoding='UTF8', newline='') as f:
             writer = csv.writer(f)
             #writer.writerow(header)
             writer.writerow(data)
