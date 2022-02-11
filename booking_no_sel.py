@@ -162,8 +162,8 @@ while i < len(links):
     #print(name)
     address = soup.find('span', class_='hp_address_subtitle').text.strip()
     #print(address)   
-    if soup.find('div', class_='_4abc4c3d5'):
-        reviews = soup.find('div', class_='_4abc4c3d5').text.strip().split()[0] 
+    if soup.find('div', class_='_1e6021d2f'): #_4abc4c3d5
+        reviews = soup.find('div', class_='_1e6021d2f').text.strip().split()[0] #_4abc4c3d5
         if ',' in reviews:
             reviews = reviews.replace(",", "")
     else:
@@ -284,7 +284,7 @@ while i < len(links):
 
     #sleeps = [ {"persons": sleep, "price": price, "choices": choices,"facilities": facilities," price_per_room": price_per_room} ]
     #rooms = [ {"id": roomId, "type": roomType, "sleeps": sleeps}]
-    hotel = {"days": int(str(total_days).split(' ')[0])+1,"link": hotel_link, "icon": img_link, "name": name, "type": type, "address": address, "reviews": int(reviews), "rating": float(rating), "rooms": rooms}
+    hotel = {"link": hotel_link, "icon": img_link, "name": name, "type": type, "address": address, "reviews": int(reviews), "rating": float(rating), "rooms": rooms}
     #print(hotel)
     #my_collection.update_one({"check_in": checkin,"check_out": checkout},{ "$set": { "scores": scores, "hotel": hotel} }, True)
     #my_collection.insert({"check_in": checkin,"check_out": checkout,"scores": scores, "hotel": hotel}) #insert doulevei
