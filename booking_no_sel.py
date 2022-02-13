@@ -1,3 +1,4 @@
+from warnings import catch_warnings
 import requests
 from bs4 import BeautifulSoup as bs
 import pymongo
@@ -143,10 +144,13 @@ while i < len(links):
         #print("No Scores found")
         scores = []
     #print("")
-    random_id = randint(100000, 9999999)
+    #random_id = randint(100000, 9999999)
     hotel_link = links[i].split('?', 1)[0]
     #print("Hotel link :"+ hotel_link)
-    hotel_id = soup.find('p', class_='hp-lists-counter').attrs['data-hotel-id'].strip() if soup.find('p', class_='hp-lists-counter').attrs['data-hotel-id'] else random_id
+    try:
+        hotel_id = soup.find('p', class_='hp-lists-counter').attrs['data-hotel-id'].strip() 
+    except AttributeError:
+        pass #no attrs found
     #print("Hotel ID :"+ hotel_id)
     img_link = soup.find('img', class_='hide').attrs['src']
     #print("Image link :"+img_link)
