@@ -30,7 +30,7 @@ jobs:
       - name: Install requirements
         run: pip install -r requirements.txt
       - name: Run Scraper
-        run: python booking_no_sel.py
+        run: python Scraper.py
       - name: Set env vars
         run: |
           echo "DATE=$(python -c 'import datetime as dt; print(dt.datetime.now().date())')" >> $GITHUB_ENV
