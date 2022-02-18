@@ -1,0 +1,1341 @@
+Date,Hotel Name,Hotel ID,Room Name,Room ID,Price
+2022-02-17,Electra Palace Thessaloniki,95605,Junior Suite,9560510,315
+2022-02-17,Electra Palace Thessaloniki,95605,Junior Suite,9560510,333
+2022-02-17,The Excelsior Small Luxury Hotels of the World,190477,Deluxe Double Room,19047705,191
+2022-02-17,The Excelsior Small Luxury Hotels of the World,190477,Deluxe Double Room,19047705,172
+2022-02-17,The Excelsior Small Luxury Hotels of the World,190477,Junior Suite,19047702,266
+2022-02-17,The Excelsior Small Luxury Hotels of the World,190477,Junior Suite,19047702,295
+2022-02-17,The Excelsior Small Luxury Hotels of the World,190477,Junior Suite,19047702,240
+2022-02-17,The Excelsior Small Luxury Hotels of the World,190477,Junior Suite,19047702,266
+2022-02-17,Hyatt Regency Thessaloniki,17799,1 King Bed,1779903,168
+2022-02-17,Hyatt Regency Thessaloniki,17799,1 King Bed,1779903,188
+2022-02-17,Hyatt Regency Thessaloniki,17799,1 King Bed,1779903,198
+2022-02-17,Hyatt Regency Thessaloniki,17799,1 King Bed,1779903,218
+2022-02-17,Hyatt Regency Thessaloniki,17799,1 King Bed,1779903,155
+2022-02-17,Hyatt Regency Thessaloniki,17799,1 King Bed,1779903,165
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Beds,1779904,168
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Beds,1779904,188
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Beds,1779904,198
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Beds,1779904,218
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Beds,1779904,155
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Beds,1779904,165
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Deluxe,1779918,258
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Deluxe,1779918,278
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Deluxe,1779918,288
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Deluxe,1779918,308
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Deluxe,1779918,245
+2022-02-17,Hyatt Regency Thessaloniki,17799,2 Twin Deluxe,1779918,255
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency King Suite,1779920,273
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency King Suite,1779920,293
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency King Suite,1779920,303
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency King Suite,1779920,323
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency King Suite,1779920,260
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency King Suite,1779920,270
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency Executive Suite,1779919,418
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency Executive Suite,1779919,438
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency Executive Suite,1779919,448
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency Executive Suite,1779919,468
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency Executive Suite,1779919,405
+2022-02-17,Hyatt Regency Thessaloniki,17799,Regency Executive Suite,1779919,415
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Garden View,2636408,158
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Garden View,2636408,184
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Garden View,2636408,184
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Garden View,2636408,214
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Garden View,2636408,149
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Garden View,2636408,174
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Pool View,2636402,166
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Pool View,2636402,194
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Pool View,2636402,192
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Pool View,2636402,224
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Pool View,2636402,158
+2022-02-17,Hotel Nikopolis,26364,Superior Room with Pool View,2636402,184
+2022-02-17,Hotel Nikopolis,26364,Deluxe Room with Pool View,2636401,178
+2022-02-17,Hotel Nikopolis,26364,Deluxe Room with Pool View,2636401,207
+2022-02-17,Hotel Nikopolis,26364,Deluxe Room with Pool View,2636401,204
+2022-02-17,Hotel Nikopolis,26364,Deluxe Room with Pool View,2636401,237
+2022-02-17,Hotel Nikopolis,26364,Deluxe Room with Pool View,2636401,169
+2022-02-17,Hotel Nikopolis,26364,Deluxe Room with Pool View,2636401,197
+2022-02-17,Hotel Nikopolis,26364,Junior Suite with Garden View,2636409,207
+2022-02-17,Hotel Nikopolis,26364,Junior Suite with Garden View,2636409,242
+2022-02-17,Hotel Nikopolis,26364,Junior Suite with Garden View,2636409,233
+2022-02-17,Hotel Nikopolis,26364,Junior Suite with Garden View,2636409,272
+2022-02-17,Hotel Nikopolis,26364,Family Room,2636411,329
+2022-02-17,Hotel Nikopolis,26364,Family Room,2636411,384
+2022-02-17,Hotel Nikopolis,26364,Executive Suite,2636410,380
+2022-02-17,Hotel Nikopolis,26364,Executive Suite,2636410,444
+2022-02-17,Hotel Nikopolis,26364,Executive Suite,2636410,406
+2022-02-17,Hotel Nikopolis,26364,Executive Suite,2636410,474
+2022-02-17,Hotel Nikopolis,26364,Presidential Suite,2636412,1024
+2022-02-17,Hotel Nikopolis,26364,Presidential Suite,2636412,1054
+2022-02-17,Makedonia Palace,95640,Premium Room with City View,9564002,163
+2022-02-17,Makedonia Palace,95640,Premium Room with City View,9564002,181
+2022-02-17,Makedonia Palace,95640,Premium Room with City View,9564002,188
+2022-02-17,Makedonia Palace,95640,Premium Room with City View,9564002,206
+2022-02-17,Makedonia Palace,95640,Premium Room with City View,9564002,150
+2022-02-17,Makedonia Palace,95640,Premium Room with City View,9564002,166
+2022-02-17,Makedonia Palace,95640,Executive Double Room with City View,9564017,181
+2022-02-17,Makedonia Palace,95640,Executive Double Room with City View,9564017,201
+2022-02-17,Makedonia Palace,95640,Executive Double Room with City View,9564017,206
+2022-02-17,Makedonia Palace,95640,Executive Double Room with City View,9564017,226
+2022-02-17,Makedonia Palace,95640,Executive Double Room with City View,9564017,168
+2022-02-17,Makedonia Palace,95640,Executive Double Room with City View,9564017,186
+2022-02-17,Makedonia Palace,95640,Premium Room with Sea View,9564001,190
+2022-02-17,Makedonia Palace,95640,Premium Room with Sea View,9564001,211
+2022-02-17,Makedonia Palace,95640,Premium Room with Sea View,9564001,215
+2022-02-17,Makedonia Palace,95640,Premium Room with Sea View,9564001,236
+2022-02-17,Makedonia Palace,95640,Premium Room with Sea View,9564001,177
+2022-02-17,Makedonia Palace,95640,Premium Room with Sea View,9564001,196
+2022-02-17,Makedonia Palace,95640,Executive Double Room with Sea View,9564016,208
+2022-02-17,Makedonia Palace,95640,Executive Double Room with Sea View,9564016,231
+2022-02-17,Makedonia Palace,95640,Executive Double Room with Sea View,9564016,233
+2022-02-17,Makedonia Palace,95640,Executive Double Room with Sea View,9564016,256
+2022-02-17,Makedonia Palace,95640,Executive Double Room with Sea View,9564016,195
+2022-02-17,Makedonia Palace,95640,Executive Double Room with Sea View,9564016,216
+2022-02-17,Makedonia Palace,95640,Junior Suite with City View,9564003,253
+2022-02-17,Makedonia Palace,95640,Junior Suite with City View,9564003,278
+2022-02-17,Makedonia Palace,95640,Junior Suite with City View,9564003,281
+2022-02-17,Makedonia Palace,95640,Junior Suite with City View,9564003,306
+2022-02-17,Makedonia Palace,95640,Junior Suite with City View,9564003,240
+2022-02-17,Makedonia Palace,95640,Junior Suite with City View,9564003,266
+2022-02-17,Makedonia Palace,95640,Deluxe Suite with Sea View,9564010,388
+2022-02-17,Makedonia Palace,95640,Deluxe Suite with Sea View,9564010,413
+2022-02-17,Makedonia Palace,95640,Deluxe Suite with Sea View,9564010,431
+2022-02-17,Makedonia Palace,95640,Deluxe Suite with Sea View,9564010,456
+2022-02-17,Makedonia Palace,95640,Deluxe Suite with Sea View,9564010,375
+2022-02-17,Makedonia Palace,95640,Deluxe Suite with Sea View,9564010,416
+2022-02-17,Makedonia Palace,95640,Presidential Suite,9564021,2863
+2022-02-17,Makedonia Palace,95640,Presidential Suite,9564021,2886
+2022-02-17,Makedonia Palace,95640,Presidential Suite,9564021,2908
+2022-02-17,Makedonia Palace,95640,Presidential Suite,9564021,2850
+2022-02-17,Mediterranean Palace,95741,Classical Double Room,9574117,147
+2022-02-17,Mediterranean Palace,95741,Classical Double Room,9574117,169
+2022-02-17,Mediterranean Palace,95741,Classical Double Room,9574117,132
+2022-02-17,Mediterranean Palace,95741,Classical Double Room,9574117,154
+2022-02-17,Mediterranean Palace,95741,Superior Twin Room,9574120,156
+2022-02-17,Mediterranean Palace,95741,Superior Twin Room,9574120,179
+2022-02-17,Mediterranean Palace,95741,Superior Twin Room,9574120,142
+2022-02-17,Mediterranean Palace,95741,Superior Twin Room,9574120,164
+2022-02-17,Mediterranean Palace,95741,Superior Double Room,9574122,156
+2022-02-17,Mediterranean Palace,95741,Superior Double Room,9574122,179
+2022-02-17,Mediterranean Palace,95741,Superior Double Room,9574122,142
+2022-02-17,Mediterranean Palace,95741,Superior Double Room,9574122,164
+2022-02-17,Mediterranean Palace,95741,Superior Double with Extra bed,9574123,156
+2022-02-17,Mediterranean Palace,95741,Superior Double with Extra bed,9574123,179
+2022-02-17,Mediterranean Palace,95741,Superior Double with Extra bed,9574123,185
+2022-02-17,Mediterranean Palace,95741,Superior Double with Extra bed,9574123,209
+2022-02-17,Mediterranean Palace,95741,Superior Double with Extra bed,9574123,142
+2022-02-17,Mediterranean Palace,95741,Superior Double with Extra bed,9574123,164
+2022-02-17,Mediterranean Palace,95741,Superior Twin With Extra Bed,9574124,156
+2022-02-17,Mediterranean Palace,95741,Superior Twin With Extra Bed,9574124,179
+2022-02-17,Mediterranean Palace,95741,Superior Twin With Extra Bed,9574124,185
+2022-02-17,Mediterranean Palace,95741,Superior Twin With Extra Bed,9574124,209
+2022-02-17,Mediterranean Palace,95741,Superior Twin With Extra Bed,9574124,142
+2022-02-17,Mediterranean Palace,95741,Superior Twin With Extra Bed,9574124,164
+2022-02-17,Mediterranean Palace,95741,Premium Double Room,9574127,170
+2022-02-17,Mediterranean Palace,95741,Premium Double Room,9574127,194
+2022-02-17,Mediterranean Palace,95741,Premium Double Room,9574127,156
+2022-02-17,Mediterranean Palace,95741,Premium Double Room,9574127,179
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room,9574128,170
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room,9574128,194
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room,9574128,156
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room,9574128,179
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room with Extra Bed,9574129,170
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room with Extra Bed,9574129,194
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room with Extra Bed,9574129,199
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room with Extra Bed,9574129,224
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room with Extra Bed,9574129,156
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room with Extra Bed,9574129,179
+2022-02-17,Mediterranean Palace,95741,Premium Double Room with Extra Bed,9574130,170
+2022-02-17,Mediterranean Palace,95741,Premium Double Room with Extra Bed,9574130,194
+2022-02-17,Mediterranean Palace,95741,Premium Double Room with Extra Bed,9574130,199
+2022-02-17,Mediterranean Palace,95741,Premium Double Room with Extra Bed,9574130,224
+2022-02-17,Mediterranean Palace,95741,Premium Double Room with Extra Bed,9574130,156
+2022-02-17,Mediterranean Palace,95741,Premium Double Room with Extra Bed,9574130,179
+2022-02-17,Mediterranean Palace,95741,Premium Double Room with Sea View,9574114,189
+2022-02-17,Mediterranean Palace,95741,Premium Double Room with Sea View,9574114,214
+2022-02-17,Mediterranean Palace,95741,Premium Double Room with Sea View,9574114,175
+2022-02-17,Mediterranean Palace,95741,Premium Double Room with Sea View,9574114,199
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room with Sea View,9574125,189
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room with Sea View,9574125,214
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room with Sea View,9574125,175
+2022-02-17,Mediterranean Palace,95741,Premium Twin Room with Sea View,9574125,199
+2022-02-17,Mediterranean Palace,95741,Junior Suite,9574116,289
+2022-02-17,Mediterranean Palace,95741,Junior Suite,9574116,319
+2022-02-17,Mediterranean Palace,95741,Junior Suite,9574116,318
+2022-02-17,Mediterranean Palace,95741,Junior Suite,9574116,349
+2022-02-17,Mediterranean Palace,95741,Junior Suite,9574116,346
+2022-02-17,Mediterranean Palace,95741,Junior Suite,9574116,379
+2022-02-17,Mediterranean Palace,95741,Premium Junior Suite,9574126,311
+2022-02-17,Mediterranean Palace,95741,Premium Junior Suite,9574126,342
+2022-02-17,Mediterranean Palace,95741,Premium Junior Suite,9574126,339
+2022-02-17,Mediterranean Palace,95741,Premium Junior Suite,9574126,372
+2022-02-17,Mediterranean Palace,95741,Premium Junior Suite,9574126,368
+2022-02-17,Mediterranean Palace,95741,Premium Junior Suite,9574126,402
+2022-02-17,Mediterranean Palace,95741,Presidential Suite,9574132,406
+2022-02-17,Mediterranean Palace,95741,Presidential Suite,9574132,442
+2022-02-17,Mediterranean Palace,95741,Presidential Suite,9574132,434
+2022-02-17,Mediterranean Palace,95741,Presidential Suite,9574132,472
+2022-02-17,Mediterranean Palace,95741,Presidential Suite,9574132,463
+2022-02-17,Mediterranean Palace,95741,Presidential Suite,9574132,502
+2022-02-17,Mediterranean Palace,95741,Superior Single Room,9574121,142
+2022-02-17,Mediterranean Palace,95741,Superior Single Room,9574121,164
+2022-02-17,Mediterranean Palace,95741,Premium Single Room with Sea View,9574109,175
+2022-02-17,Mediterranean Palace,95741,Premium Single Room with Sea View,9574109,199
+2022-02-17,Daios Luxury Living,96351,Comfort Room with Atrium View,9635101,141
+2022-02-17,Daios Luxury Living,96351,Comfort Room with Atrium View,9635101,179
+2022-02-17,Daios Luxury Living,96351,Comfort Room with Atrium View,9635101,129
+2022-02-17,Daios Luxury Living,96351,Comfort Room with Atrium View,9635101,164
+2022-02-17,Daios Luxury Living,96351,Superior Room with City View,9635110,169
+2022-02-17,Daios Luxury Living,96351,Superior Room with City View,9635110,214
+2022-02-17,Daios Luxury Living,96351,Superior Room with City View,9635110,157
+2022-02-17,Daios Luxury Living,96351,Superior Room with City View,9635110,199
+2022-02-17,Daios Luxury Living,96351,Deluxe Superior Room with City View,9635116,194
+2022-02-17,Daios Luxury Living,96351,Deluxe Superior Room with City View,9635116,234
+2022-02-17,Daios Luxury Living,96351,Deluxe Superior Room with City View,9635116,186
+2022-02-17,Daios Luxury Living,96351,Deluxe Superior Room with City View,9635116,224
+2022-02-17,Daios Luxury Living,96351,Junior Suite with Side Sea View,9635106,224
+2022-02-17,Daios Luxury Living,96351,Junior Suite with Side Sea View,9635106,269
+2022-02-17,Daios Luxury Living,96351,Junior Suite with Side Sea View,9635106,207
+2022-02-17,Daios Luxury Living,96351,Junior Suite with Side Sea View,9635106,249
+2022-02-17,Daios Luxury Living,96351,Executive Room with Sea View,9635108,249
+2022-02-17,Daios Luxury Living,96351,Executive Room with Sea View,9635108,299
+2022-02-17,Daios Luxury Living,96351,Executive Room with Sea View,9635108,232
+2022-02-17,Daios Luxury Living,96351,Executive Room with Sea View,9635108,279
+2022-02-17,Daios Luxury Living,96351,Deluxe Junior Suite with Sea View,9635109,265
+2022-02-17,Daios Luxury Living,96351,Deluxe Junior Suite with Sea View,9635109,319
+2022-02-17,Daios Luxury Living,96351,Deluxe Junior Suite with Sea View,9635109,249
+2022-02-17,Daios Luxury Living,96351,Deluxe Junior Suite with Sea View,9635109,299
+2022-02-17,Daios Luxury Living,96351,Senior Suite with Front Sea View,9635111,484
+2022-02-17,Daios Luxury Living,96351,Senior Suite with Front Sea View,9635111,584
+2022-02-17,Daios Luxury Living,96351,Luxury Suite with Front Sea View,9635107,700
+2022-02-17,Daios Luxury Living,96351,Luxury Suite with Front Sea View,9635107,844
+2022-02-17,AiR Waterfront Nikis Apartment,2333233,Apartment with Sea View,233323301,150
+2022-02-17,AiR Waterfront Nikis Apartment,2333233,Apartment with Sea View,233323301,170
+2022-02-17,AiR Waterfront Nikis Apartment,2333233,Apartment with Sea View,233323301,190
+2022-02-17,AiR Waterfront Nikis Apartment,2333233,Apartment with Sea View,233323301,210
+2022-02-17,AiR Waterfront Nikis Apartment,2333233,Apartment with Sea View,233323301,230
+2022-02-17,Endless View City Center Condo,5666460,Three-Bedroom Apartment,566646001,134
+2022-02-17,ONOMA Hotel,7031928,First Name,703192803,133
+2022-02-17,ONOMA Hotel,7031928,First Name,703192803,123
+2022-02-17,ONOMA Hotel,7031928,Nickname - (Accessible Room),703192802,143
+2022-02-17,ONOMA Hotel,7031928,Nickname - (Accessible Room),703192802,133
+2022-02-17,ONOMA Hotel,7031928,Surname,703192804,148
+2022-02-17,ONOMA Hotel,7031928,Surname,703192804,158
+2022-02-17,ONOMA Hotel,7031928,Surname,703192804,138
+2022-02-17,ONOMA Hotel,7031928,Family Name,703192806,163
+2022-02-17,ONOMA Hotel,7031928,Family Name,703192806,153
+2022-02-17,ONOMA Hotel,7031928,Full Name,703192805,173
+2022-02-17,ONOMA Hotel,7031928,Full Name,703192805,183
+2022-02-17,ONOMA Hotel,7031928,Full Name,703192805,163
+2022-02-17,ONOMA Hotel,7031928,Surname C-View,703192807,200
+2022-02-17,ONOMA Hotel,7031928,Surname C-View,703192807,210
+2022-02-17,ONOMA Hotel,7031928,Surname C-View,703192807,180
+2022-02-17,ONOMA Hotel,7031928,Signature Suite,703192808,220
+2022-02-17,ONOMA Hotel,7031928,Signature Suite,703192808,230
+2022-02-17,ONOMA Hotel,7031928,Signature Suite,703192808,210
+2022-02-17,ONOMA Hotel,7031928,Autograph Suite,703192809,230
+2022-02-17,ONOMA Hotel,7031928,Autograph Suite,703192809,240
+2022-02-17,ONOMA Hotel,7031928,Autograph Suite,703192809,220
+2022-02-17,ONOMA Hotel,7031928,Smart Name,703192801,117
+2022-02-17,The Modernist Thessaloniki,3356574,Standard Double Room,335657401,127
+2022-02-17,The Modernist Thessaloniki,3356574,Standard Double Room,335657401,119
+2022-02-17,The Modernist Thessaloniki,3356574,Superior Double Room,335657402,137
+2022-02-17,The Modernist Thessaloniki,3356574,Superior Double Room,335657402,129
+2022-02-17,The Modernist Thessaloniki,3356574,Deluxe Double or Twin Room,335657403,151
+2022-02-17,The Modernist Thessaloniki,3356574,Deluxe Double or Twin Room,335657403,143
+2022-02-17,The Modernist Thessaloniki,3356574,X-Large Room,335657404,175
+2022-02-17,The Modernist Thessaloniki,3356574,X-Large Room,335657404,191
+2022-02-17,The Modernist Thessaloniki,3356574,X-Large Room,335657404,167
+2022-02-17,Grand Hotel Palace,95586,Deluxe Double or Twin Room,9558615,126
+2022-02-17,Grand Hotel Palace,95586,Deluxe Double or Twin Room,9558615,115
+2022-02-17,Grand Hotel Palace,95586,Deluxe Twin Room with Sofa Bed or Extra bed,9558664,138
+2022-02-17,Grand Hotel Palace,95586,Premium Double or Twin Room,9558616,174
+2022-02-17,Grand Hotel Palace,95586,Premium Double or Twin Room,9558616,159
+2022-02-17,Grand Hotel Palace,95586,Junior Suite,9558618,219
+2022-02-17,The Met Hotel,190352,Superior Plus Double or Twin Room,19035201,122
+2022-02-17,The Met Hotel,190352,Superior Plus Double or Twin Room,19035201,131
+2022-02-17,The Met Hotel,190352,Superior Plus Double or Twin Room,19035201,135
+2022-02-17,The Met Hotel,190352,Superior Plus Double or Twin Room,19035201,145
+2022-02-17,The Met Hotel,190352,Superior Plus Double or Twin Room,19035201,113
+2022-02-17,The Met Hotel,190352,Superior Plus Double or Twin Room,19035201,122
+2022-02-17,The Met Hotel,190352,Superior Plus Double or Twin Room,19035201,125
+2022-02-17,The Met Hotel,190352,Superior Plus Double or Twin Room,19035201,135
+2022-02-17,The Met Hotel,190352,Superior Double Room with Port View,19035202,140
+2022-02-17,The Met Hotel,190352,Superior Double Room with Port View,19035202,149
+2022-02-17,The Met Hotel,190352,Superior Double Room with Port View,19035202,155
+2022-02-17,The Met Hotel,190352,Superior Double Room with Port View,19035202,165
+2022-02-17,The Met Hotel,190352,Superior Double Room with Port View,19035202,131
+2022-02-17,The Met Hotel,190352,Superior Double Room with Port View,19035202,140
+2022-02-17,The Met Hotel,190352,Superior Double Room with Port View,19035202,145
+2022-02-17,The Met Hotel,190352,Superior Double Room with Port View,19035202,155
+2022-02-17,The Met Hotel,190352,Deluxe Twin Room,19035203,158
+2022-02-17,The Met Hotel,190352,Deluxe Twin Room,19035203,167
+2022-02-17,The Met Hotel,190352,Deluxe Twin Room,19035203,175
+2022-02-17,The Met Hotel,190352,Deluxe Twin Room,19035203,185
+2022-02-17,The Met Hotel,190352,Deluxe Twin Room,19035203,149
+2022-02-17,The Met Hotel,190352,Deluxe Twin Room,19035203,158
+2022-02-17,The Met Hotel,190352,Deluxe Twin Room,19035203,165
+2022-02-17,The Met Hotel,190352,Deluxe Twin Room,19035203,175
+2022-02-17,The Met Hotel,190352,Executive Double Room,19035204,176
+2022-02-17,The Met Hotel,190352,Executive Double Room,19035204,185
+2022-02-17,The Met Hotel,190352,Executive Double Room,19035204,195
+2022-02-17,The Met Hotel,190352,Executive Double Room,19035204,205
+2022-02-17,The Met Hotel,190352,Executive Double Room,19035204,167
+2022-02-17,The Met Hotel,190352,Executive Double Room,19035204,176
+2022-02-17,The Met Hotel,190352,Executive Double Room,19035204,185
+2022-02-17,The Met Hotel,190352,Executive Double Room,19035204,195
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,194
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,203
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,215
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,221
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,225
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,230
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,245
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,255
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,185
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,194
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,205
+2022-02-17,The Met Hotel,190352,Business Suite,19035205,215
+2022-02-17,The Met Hotel,190352,Two Superior Double Rooms - Interconnecting,19035208,256
+2022-02-17,The Met Hotel,190352,Two Superior Double Rooms - Interconnecting,19035208,274
+2022-02-17,The Met Hotel,190352,Two Superior Double Rooms - Interconnecting,19035208,284
+2022-02-17,The Met Hotel,190352,Two Superior Double Rooms - Interconnecting,19035208,304
+2022-02-17,The Met Hotel,190352,Executive Suite,19035207,499
+2022-02-17,The Met Hotel,190352,Executive Suite,19035207,554
+2022-02-17,The Met Hotel,190352,The Met Suite,19035232,1804
+2022-02-17,The Met Hotel,190352,The Met Suite,19035232,2004
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Queen Room with Balcony,786338001,117
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Queen Room with Balcony,786338001,165
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Queen Room with Balcony,786338001,141
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,King Room with Balcony,786338002,139
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,King Room with Balcony,786338002,186
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,King Room with Balcony,786338002,206
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,King Room with Balcony,786338002,277
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,King Room with Balcony,786338002,162
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,162
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,180
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,210
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,233
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,242
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,268
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,313
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,347
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,321
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,356
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,416
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,462
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,186
+2022-02-17,S Hotel Boutique Thessaloniki,7863380,Junior Suite,786338003,206
+2022-02-17,No 15 Ermou Hotel,7806547,Business Double Room,780654701,106
+2022-02-17,No 15 Ermou Hotel,7806547,Business Double Room,780654701,120
+2022-02-17,No 15 Ermou Hotel,7806547,Comfort Double Room,780654702,122
+2022-02-17,No 15 Ermou Hotel,7806547,Comfort Double Room,780654702,136
+2022-02-17,No 15 Ermou Hotel,7806547,Comfort Double Room with Balcony,780654703,130
+2022-02-17,No 15 Ermou Hotel,7806547,Comfort Double Room with Balcony,780654703,144
+2022-02-17,No 15 Ermou Hotel,7806547,Premium Double Room,780654704,134
+2022-02-17,No 15 Ermou Hotel,7806547,Premium Double Room,780654704,147
+2022-02-17,No 15 Ermou Hotel,7806547,Double Room with Patio,780654706,138
+2022-02-17,No 15 Ermou Hotel,7806547,Double Room with Patio,780654706,152
+2022-02-17,No 15 Ermou Hotel,7806547,Superior Double Room with Patio,780654705,150
+2022-02-17,No 15 Ermou Hotel,7806547,Superior Double Room with Patio,780654705,163
+2022-02-17,No 15 Ermou Hotel,7806547,Deluxe Room,780654707,152
+2022-02-17,No 15 Ermou Hotel,7806547,Deluxe Room,780654707,166
+2022-02-17,No 15 Ermou Hotel,7806547,Elegant Suite,780654708,190
+2022-02-17,No 15 Ermou Hotel,7806547,Elegant Suite,780654708,203
+2022-02-17,No 15 Ermou Hotel,7806547,Premium Suite,780654709,218
+2022-02-17,No 15 Ermou Hotel,7806547,Premium Suite,780654709,232
+2022-02-17,No 15 Ermou Hotel,7806547,Executive Suite,780654710,230
+2022-02-17,No 15 Ermou Hotel,7806547,Executive Suite,780654710,243
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Comfort Double Room with City View,301921901,103
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Comfort Double Room with City View,301921901,115
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Comfort Double Room with City View,301921901,129
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Comfort Double Room with City View,301921901,140
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Comfort Double Room with City View,301921901,92
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Comfort Double Room with City View,301921901,102
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Comfort Double Room with City View,301921901,105
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Comfort Double Room with City View,301921901,115
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,123
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,136
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,148
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,153
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,161
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,170
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,191
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,208
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,103
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,115
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,116
+2022-02-17,Antigon Urban Chic Hotel - The Leading Hotels of the World,3019219,Junior Suite Balcony City or Courtyard View,301921903,127
+2022-02-17,Old Town,4019193,Apartment,401919301,102
+2022-02-17,Old Town,4019193,Apartment,401919301,120
+2022-02-17,Anatolia Hotel,95807,Deluxe Double or Twin Room,9580702,102
+2022-02-17,Anatolia Hotel,95807,Deluxe Double or Twin Room,9580702,102
+2022-02-17,Anatolia Hotel,95807,Deluxe Double or Twin Room,9580702,92
+2022-02-17,Anatolia Hotel,95807,Deluxe Double or Twin Room,9580702,92
+2022-02-17,Anatolia Hotel,95807,Deluxe Triple Room,9580703,130
+2022-02-17,Anatolia Hotel,95807,Deluxe Triple Room,9580703,140
+2022-02-17,Anatolia Hotel,95807,Deluxe Triple Room,9580703,115
+2022-02-17,Anatolia Hotel,95807,Family Room (2 Adults + 2 Children),9580707,150
+2022-02-17,Anatolia Hotel,95807,Family Room (2 Adults + 2 Children),9580707,140
+2022-02-17,Anatolia Hotel,95807,Junior Suite,9580704,171
+2022-02-17,Anatolia Hotel,95807,Junior Suite,9580704,171
+2022-02-17,Anatolia Hotel,95807,Junior Suite,9580704,151
+2022-02-17,Anatolia Hotel,95807,Junior Suite,9580704,151
+2022-02-17,Anatolia Hotel,95807,Grand Suite,9580705,201
+2022-02-17,Anatolia Hotel,95807,Grand Suite,9580705,201
+2022-02-17,Anatolia Hotel,95807,Grand Suite,9580705,191
+2022-02-17,Anatolia Hotel,95807,Grand Suite,9580705,191
+2022-02-17,Anatolia Hotel,95807,Economy Single Room,9580719,82
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Superior Double Room,9641816,97
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Superior Double Room,9641816,102
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Superior Double Room,9641816,117
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Superior Double Room,9641816,122
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Superior Double Room,9641816,82
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Superior Double Room,9641816,92
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Superior Double Room,9641816,102
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Superior Double Room,9641816,112
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Junior Suite,9641821,122
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Junior Suite,9641821,127
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Junior Suite,9641821,142
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Junior Suite,9641821,147
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Junior Suite,9641821,107
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Junior Suite,9641821,117
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Junior Suite,9641821,127
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Junior Suite,9641821,137
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Double Room Mobility Accessible,9641822,129
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Double Room Mobility Accessible,9641822,134
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Double Room Mobility Accessible,9641822,149
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Double Room Mobility Accessible,9641822,154
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Double Room Mobility Accessible,9641822,114
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Double Room Mobility Accessible,9641822,124
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Double Room Mobility Accessible,9641822,134
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Double Room Mobility Accessible,9641822,144
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Family Suite,9641818,171
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Family Suite,9641818,191
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Family Suite,9641818,191
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Family Suite,9641818,211
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Family Suite,9641818,181
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Family Suite,9641818,201
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Lazart Suite,9641819,246
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Lazart Suite,9641819,251
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Lazart Suite,9641819,266
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Lazart Suite,9641819,271
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Lazart Suite,9641819,231
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Lazart Suite,9641819,241
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Lazart Suite,9641819,251
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Lazart Suite,9641819,261
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Penthouse Suite,9641820,432
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Penthouse Suite,9641820,452
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Penthouse Suite,9641820,452
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Penthouse Suite,9641820,472
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Penthouse Suite,9641820,442
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Penthouse Suite,9641820,462
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Single Room,9641815,72
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Single Room,9641815,82
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Single Room,9641815,92
+2022-02-17,"Lazart Hotel, Trademark Collection by Wyndham",96418,Standard Single Room,9641815,102
+2022-02-17,City Hotel Thessaloniki,95149,Standard  Room Inner View,9514909,96
+2022-02-17,City Hotel Thessaloniki,95149,Standard  Room Inner View,9514909,106
+2022-02-17,City Hotel Thessaloniki,95149,Standard  Room Inner View,9514909,86
+2022-02-17,City Hotel Thessaloniki,95149,Standard  Room Inner View,9514909,96
+2022-02-17,City Hotel Thessaloniki,95149,Green Suite,9514913,178
+2022-02-17,Capsis Bristol Boutique Hotel,97166,Superior  Room,9716602,92
+2022-02-17,Capsis Bristol Boutique Hotel,97166,Superior  Room,9716602,83
+2022-02-17,Capsis Bristol Boutique Hotel,97166,Executive Room,9716608,101
+2022-02-17,Capsis Bristol Boutique Hotel,97166,Executive Room,9716608,92
+2022-02-17,Capsis Bristol Boutique Hotel,97166,Bristol Suite,9716603,137
+2022-02-17,Capsis Bristol Boutique Hotel,97166,Family Room (2 Adults + 2 Children),9716607,162
+2022-02-17,Bahar Boutique Hotel,3252134,Superior Room,325213402,90
+2022-02-17,Bahar Boutique Hotel,3252134,Superior Room,325213402,82
+2022-02-17,Bahar Boutique Hotel,3252134,Deluxe King Room,325213403,103
+2022-02-17,Bahar Boutique Hotel,3252134,Deluxe King Room,325213403,94
+2022-02-17,Bahar Boutique Hotel,3252134,Executive Room,325213404,111
+2022-02-17,Bahar Boutique Hotel,3252134,Executive Room,325213404,119
+2022-02-17,Bahar Boutique Hotel,3252134,Executive Room,325213404,103
+2022-02-17,Bahar Boutique Hotel,3252134,King Room with Spa Bath,325213406,119
+2022-02-17,Bahar Boutique Hotel,3252134,King Room with Spa Bath,325213406,111
+2022-02-17,ZH Luxury Suites,5951151,Suite,595115106,86
+2022-02-17,ZH Luxury Suites,5951151,Suite,595115106,94
+2022-02-17,ZH Luxury Suites,5951151,Suite,595115106,103
+2022-02-17,Hotel Luxembourg,96650,Triple Room,9665004,90
+2022-02-17,Hotel Luxembourg,96650,Family Room (2 Adults + 2 Children),9665006,100
+2022-02-17,Hotel Luxembourg,96650,Junior Suite,9665003,100
+2022-02-17,Athlos Hotel,4099240,Standard Double Room,409924001,89
+2022-02-17,Athlos Hotel,4099240,Triple Room,409924002,93
+2022-02-17,Athlos Hotel,4099240,Triple Room,409924002,111
+2022-02-17,Athlos Hotel,4099240,Large Single Room,409924004,71
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,95
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,106
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,107
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,113
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,118
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,126
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,131
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,131
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,144
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,146
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,149
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,155
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,166
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,170
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,179
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,196
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,92
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,98
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,102
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,XL Loft Room,184762903,108
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,126
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,138
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,140
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,144
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,152
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,160
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,162
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,162
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,178
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,180
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,186
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,204
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,122
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,128
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,136
+2022-02-17,Colors Urban Hotel Thessaloniki,1847629,King Suite with Terrace & Jacuzzi,184762908,142
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room - Non-Smoking,9611715,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room - Non-Smoking,9611715,95
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room - Non-Smoking,9611715,127
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room - Non-Smoking,9611715,75
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room - Non-Smoking,9611715,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room - Non-Smoking,9611715,105
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room,9611702,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room,9611702,95
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room,9611702,127
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room,9611702,75
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room,9611702,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Double Room,9611702,105
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Double or Twin Room,9611712,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Double or Twin Room,9611712,95
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Double or Twin Room,9611712,127
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Double or Twin Room,9611712,75
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Double or Twin Room,9611712,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Double or Twin Room,9611712,105
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Smoking,9611707,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Smoking,9611707,95
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Smoking,9611707,127
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Smoking,9611707,75
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Smoking,9611707,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Smoking,9611707,105
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Non-Smoking,9611708,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Non-Smoking,9611708,95
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Non-Smoking,9611708,127
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Non-Smoking,9611708,75
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Non-Smoking,9611708,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Queen Room - Non-Smoking,9611708,105
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Twin Room - Disability Access/Smoking,9611718,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Twin Room - Disability Access/Smoking,9611718,95
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Twin Room - Disability Access/Smoking,9611718,127
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Twin Room - Disability Access/Smoking,9611718,75
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Twin Room - Disability Access/Smoking,9611718,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Standard Twin Room - Disability Access/Smoking,9611718,105
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Smoking,9611717,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Smoking,9611717,95
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Smoking,9611717,127
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Smoking,9611717,75
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Smoking,9611717,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Smoking,9611717,105
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Non-Smoking,9611710,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Non-Smoking,9611710,95
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Non-Smoking,9611710,127
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Non-Smoking,9611710,75
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Non-Smoking,9611710,85
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Twin Room - Non-Smoking,9611710,105
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,King Junior Suite with Sofa Bed - Non Smoking,9611705,160
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,King Junior Suite with Sofa Bed - Non Smoking,9611705,170
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,King Junior Suite with Sofa Bed - Non Smoking,9611705,170
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,King Junior Suite with Sofa Bed - Non Smoking,9611705,180
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,King Junior Suite with Sofa Bed - Non Smoking,9611705,202
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,King Junior Suite with Sofa Bed - Non Smoking,9611705,224
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,King Junior Suite with Sofa Bed - Non Smoking,9611705,150
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,King Junior Suite with Sofa Bed - Non Smoking,9611705,160
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,King Junior Suite with Sofa Bed - Non Smoking,9611705,180
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Junior Suite with Sofa Bed - Non-Smoking,9611713,160
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Junior Suite with Sofa Bed - Non-Smoking,9611713,170
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Junior Suite with Sofa Bed - Non-Smoking,9611713,170
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Junior Suite with Sofa Bed - Non-Smoking,9611713,180
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Junior Suite with Sofa Bed - Non-Smoking,9611713,202
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Junior Suite with Sofa Bed - Non-Smoking,9611713,224
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Junior Suite with Sofa Bed - Non-Smoking,9611713,150
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Junior Suite with Sofa Bed - Non-Smoking,9611713,160
+2022-02-17,"Holiday Inn Thessaloniki, an IHG Hotel",96117,Junior Suite with Sofa Bed - Non-Smoking,9611713,180
+2022-02-17,Magnifique Luxury Suites,3692967,Superior Double or Twin Room with City View,369296704,78
+2022-02-17,Magnifique Luxury Suites,3692967,Suite with Jacuzzi,369296706,133
+2022-02-17,Apartments 77 Νικη,7773785,One-Bedroom Apartment,777378501,83
+2022-02-17,Apartments 77 Νικη,7773785,One-Bedroom Apartment,777378501,92
+2022-02-17,Apartments 77 Νικη,7773785,One-Bedroom Apartment,777378501,87
+2022-02-17,Apartments 77 Νικη,7773785,One-Bedroom Apartment,777378501,97
+2022-02-17,Apartments 77 Νικη,7773785,One-Bedroom Apartment,777378501,97
+2022-02-17,Apartments 77 Νικη,7773785,One-Bedroom Apartment,777378501,108
+2022-02-17,Apartments 77 Νικη,7773785,One-Bedroom Apartment,777378501,78
+2022-02-17,Apartments 77 Νικη,7773785,One-Bedroom Apartment,777378501,86
+2022-02-17,The Mood Luxury Rooms,3359293,Standard Twin Room,335929303,81
+2022-02-17,The Mood Luxury Rooms,3359293,Standard Twin Room,335929303,95
+2022-02-17,The Mood Luxury Rooms,3359293,Deluxe Double Room with Balcony,335929304,95
+2022-02-17,The Mood Luxury Rooms,3359293,Deluxe Double Room with Balcony,335929304,107
+2022-02-17,The Mood Luxury Rooms,3359293,Deluxe Double Room,335929302,101
+2022-02-17,The Mood Luxury Rooms,3359293,Deluxe Junior Suite,335929305,133
+2022-02-17,The Mood Luxury Rooms,3359293,Deluxe Junior Suite,335929305,163
+2022-02-17,Navarino Square Apartment,2411867,Apartment,241186701,80
+2022-02-17,Navarino Square Apartment,2411867,Apartment,241186701,85
+2022-02-17,Davitel - Tobacco Hotel,95414,Double Room,9541402,80
+2022-02-17,Davitel - Tobacco Hotel,95414,Double Room,9541402,77
+2022-02-17,Davitel - Tobacco Hotel,95414,Double Room,9541402,90
+2022-02-17,Davitel - Tobacco Hotel,95414,Junior Suite,9541404,105
+2022-02-17,Davitel - Tobacco Hotel,95414,Junior Suite,9541404,120
+2022-02-17,Davitel - Tobacco Hotel,95414,Family Room (2 Adults + 2 Children),9541409,128
+2022-02-17,Davitel - Tobacco Hotel,95414,Family Room (2 Adults + 2 Children),9541409,145
+2022-02-17,Davitel - Tobacco Hotel,95414,Twin Room with Extra Bed,9541406,82
+2022-02-17,Davitel - Tobacco Hotel,95414,Twin Room with Extra Bed,9541406,85
+2022-02-17,Davitel - Tobacco Hotel,95414,Twin Room with Extra Bed,9541406,95
+2022-02-17,Davitel - Tobacco Hotel,95414,Single Room,9541401,71
+2022-02-17,Davitel - Tobacco Hotel,95414,Single Room,9541401,75
+2022-02-17,Davitel - Tobacco Hotel,95414,Single Room,9541401,80
+2022-02-17,Hotel Panorama,95592,Standard Twin Room with Side View,9559203,80
+2022-02-17,Hotel Panorama,95592,Standard Twin Room with Side View,9559203,83
+2022-02-17,Hotel Panorama,95592,Twin Room with Panoramic City and Sea View,9559204,92
+2022-02-17,Hotel Panorama,95592,Twin Room with Panoramic City and Sea View,9559204,100
+2022-02-17,Hotel Panorama,95592,Superior Double Room with Panoramic Sea and City View,9559211,100
+2022-02-17,Hotel Panorama,95592,Family Suite with Mountain View (2 adults + 2 children),9559209,153
+2022-02-17,Hotel Panorama,95592,Economy Single Room with Mountain View,9559201,71
+2022-02-17,Hotel Panorama,95592,Economy Single Room with Mountain View,9559201,75
+2022-02-17,Hotel Panorama,95592,Superior Single Room with City / Sea View,9559202,90
+2022-02-17,Grey Studios by Skg Apartments,2805437,Comfort Studio with Castle View,280543701,78
+2022-02-17,Grey Studios by Skg Apartments,2805437,Comfort Studio with Castle View,280543701,106
+2022-02-17,Grey Studios by Skg Apartments,2805437,Comfort Studio with Castle View,280543701,134
+2022-02-17,Grey Studios by Skg Apartments,2805437,Comfort Studio with Balcony and City View,280543702,78
+2022-02-17,Grey Studios by Skg Apartments,2805437,Comfort Studio with Balcony and City View,280543702,106
+2022-02-17,Grey Studios by Skg Apartments,2805437,Comfort Studio with Balcony and City View,280543702,134
+2022-02-17,Grey Studios by Skg Apartments,2805437,Studio with Castle View,280543703,78
+2022-02-17,Grey Studios by Skg Apartments,2805437,Studio with Castle View,280543703,106
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget (King Bed) Backyard View,586422410,78
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget (King Bed) Backyard View,586422410,83
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget (King Bed) Backyard View,586422410,93
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget (King Bed) Backyard View,586422410,98
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget (King Bed) Backyard View,586422410,68
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget (King Bed) Backyard View,586422410,73
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget (King Bed) Backyard View,586422410,76
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget (King Bed) Backyard View,586422410,81
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) City View,586422402,83
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) City View,586422402,88
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) City View,586422402,98
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) City View,586422402,103
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) City View,586422402,73
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) City View,586422402,78
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) City View,586422402,81
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) City View,586422402,86
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) Backyard View,586422411,83
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) Backyard View,586422411,88
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) Backyard View,586422411,98
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) Backyard View,586422411,103
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) Backyard View,586422411,73
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) Backyard View,586422411,78
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) Backyard View,586422411,81
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (King Bed) Backyard View,586422411,86
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (Twin Bed) City View,586422403,83
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (Twin Bed) City View,586422403,88
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (Twin Bed) City View,586422403,98
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (Twin Bed) City View,586422403,103
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (Twin Bed) City View,586422403,73
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (Twin Bed) City View,586422403,78
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (Twin Bed) City View,586422403,81
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Deluxe (Twin Bed) City View,586422403,86
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive (King Bed) City View with Balcony,586422406,123
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive (King Bed) City View with Balcony,586422406,128
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive (King Bed) City View with Balcony,586422406,138
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive (King Bed) City View with Balcony,586422406,143
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive (King Bed) City View with Balcony,586422406,113
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive (King Bed) City View with Balcony,586422406,118
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive (King Bed) City View with Balcony,586422406,121
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive (King Bed) City View with Balcony,586422406,126
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,193
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,198
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,203
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,208
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,208
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,213
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,213
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,218
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,226
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,231
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,243
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,248
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,183
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,188
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,191
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Triple (King+Twin Bed) City View with Balcony,586422407,196
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Junior Suite City View with Balcony,586422409,203
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Junior Suite City View with Balcony,586422409,208
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Junior Suite City View with Balcony,586422409,218
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Junior Suite City View with Balcony,586422409,223
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Junior Suite City View with Balcony,586422409,193
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Junior Suite City View with Balcony,586422409,198
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Junior Suite City View with Balcony,586422409,201
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Executive Junior Suite City View with Balcony,586422409,206
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,"Executive ""Plus"" Comfort Junior Suite City View with Balcony",586422408,223
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,"Executive ""Plus"" Comfort Junior Suite City View with Balcony",586422408,228
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,"Executive ""Plus"" Comfort Junior Suite City View with Balcony",586422408,238
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,"Executive ""Plus"" Comfort Junior Suite City View with Balcony",586422408,243
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,"Executive ""Plus"" Comfort Junior Suite City View with Balcony",586422408,213
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,"Executive ""Plus"" Comfort Junior Suite City View with Balcony",586422408,218
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,"Executive ""Plus"" Comfort Junior Suite City View with Balcony",586422408,221
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,"Executive ""Plus"" Comfort Junior Suite City View with Balcony",586422408,226
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget Single Backyard View,586422401,63
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget Single Backyard View,586422401,68
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget Single Backyard View,586422401,71
+2022-02-17,ad Imperial Plus Hotel Thessaloniki,5864224,Budget Single Backyard View,586422401,76
+2022-02-17,Pillow urban stay,6040551,Comfort Double Room White Tower View,604055102,78
+2022-02-17,Pillow urban stay,6040551,Comfort Double Room White Tower View,604055102,106
+2022-02-17,Pillow urban stay,6040551,Comfort Double Room White Tower View,604055102,92
+2022-02-17,Pillow urban stay,6040551,Deluxe Double Room White Tower View,604055103,86
+2022-02-17,Pillow urban stay,6040551,Deluxe Double Room White Tower View,604055103,114
+2022-02-17,Pillow urban stay,6040551,Deluxe Double Room White Tower View,604055103,93
+2022-02-17,Pillow urban stay,6040551,Deluxe Double Room White Tower View,604055103,135
+2022-02-17,Pillow urban stay,6040551,Deluxe Double Room White Tower View,604055103,100
+2022-02-17,Mazi7thFloor #4,3727559,Apartment,372755901,73
+2022-02-17,Mazi7thFloor #4,3727559,Apartment,372755901,80
+2022-02-17,The Caravan,1700739,Executive Room,170073902,77
+2022-02-17,The Caravan,1700739,Executive Room,170073902,83
+2022-02-17,The Caravan,1700739,Luminous Suite,170073907,92
+2022-02-17,"Era, Nilie Hospitality MGMT",8155202,Two-Bedroom Apartment,815520201,77
+2022-02-17,"Era, Nilie Hospitality MGMT",8155202,Two-Bedroom Apartment,815520201,85
+2022-02-17,Thessaloniki Center Apartment On The Sea,5571984,Three-Bedroom Apartment,557198401,76
+2022-02-17,Thessaloniki Center Apartment On The Sea,5571984,Three-Bedroom Apartment,557198401,86
+2022-02-17,Thessaloniki Center Apartment On The Sea,5571984,Three-Bedroom Apartment,557198401,96
+2022-02-17,Thessaloniki Center Apartment On The Sea,5571984,Three-Bedroom Apartment,557198401,106
+2022-02-17,Thessaloniki Center Apartment On The Sea,5571984,Three-Bedroom Apartment,557198401,116
+2022-02-17,Thessaloniki Center Apartment On The Sea,5571984,Three-Bedroom Apartment,557198401,126
+2022-02-17,Thessaloniki Center Apartment On The Sea,5571984,Three-Bedroom Apartment,557198401,136
+2022-02-17,Superior One Boutique Hotel,2806445,Superior Queen Room,280644501,72
+2022-02-17,Superior One Boutique Hotel,2806445,Superior Queen Room,280644501,84
+2022-02-17,Superior One Boutique Hotel,2806445,Junior Suite,280644502,95
+2022-02-17,Superior One Boutique Hotel,2806445,Junior Suite,280644502,102
+2022-02-17,Superior One Boutique Hotel,2806445,Junior Suite,280644502,110
+2022-02-17,Superior One Boutique Hotel,2806445,Junior Suite,280644502,110
+2022-02-17,Superior One Boutique Hotel,2806445,Junior Suite,280644502,119
+2022-02-17,Superior One Boutique Hotel,2806445,Junior Suite,280644502,128
+2022-02-17,Superior One Boutique Hotel,2806445,Standard Suite,280644504,98
+2022-02-17,Superior One Boutique Hotel,2806445,Standard Suite,280644504,84
+2022-02-17,Superior One Boutique Hotel,2806445,Premium Suite,280644503,99
+2022-02-17,Superior One Boutique Hotel,2806445,Premium Suite,280644503,107
+2022-02-17,Superior One Boutique Hotel,2806445,Premium Suite,280644503,115
+2022-02-17,Superior One Boutique Hotel,2806445,Premium Suite,280644503,116
+2022-02-17,Superior One Boutique Hotel,2806445,Premium Suite,280644503,125
+2022-02-17,Superior One Boutique Hotel,2806445,Premium Suite,280644503,134
+2022-02-17,Egnatia Palace Hotel &amp; Spa,49479,Double Room,4947902,75
+2022-02-17,Egnatia Palace Hotel &amp; Spa,49479,Double Room,4947902,82
+2022-02-17,Egnatia Palace Hotel &amp; Spa,49479,Double Room,4947902,70
+2022-02-17,Egnatia Palace Hotel &amp; Spa,49479,Double Room,4947902,77
+2022-02-17,Egnatia Palace Hotel &amp; Spa,49479,Single Room,4947901,65
+2022-02-17,Egnatia Palace Hotel &amp; Spa,49479,Single Room,4947901,72
+2022-02-17,Noa Premium stay,6535371,Standard Double Room,653537102,74
+2022-02-17,Noa Premium stay,6535371,Standard Double Room,653537102,85
+2022-02-17,Noa Premium stay,6535371,Standard Double Room,653537102,74
+2022-02-17,Noa Premium stay,6535371,Standard Double Room,653537102,79
+2022-02-17,Noa Premium stay,6535371,Double Room with Sea View,653537107,89
+2022-02-17,Noa Premium stay,6535371,Double Room with Sea View,653537107,100
+2022-02-17,Noa Premium stay,6535371,Double Room with Sea View,653537107,88
+2022-02-17,Noa Premium stay,6535371,Double Room with Sea View,653537107,94
+2022-02-17,Noa Premium stay,6535371,Junior Suite with Sea View,653537109,118
+2022-02-17,Noa Premium stay,6535371,Junior Suite with Sea View,653537109,130
+2022-02-17,Noa Premium stay,6535371,Junior Suite with Sea View,653537109,117
+2022-02-17,Noa Premium stay,6535371,Junior Suite with Sea View,653537109,123
+2022-02-17,Luxury Living Apartments and Spa,1786641,Studio Apartment,178664106,82
+2022-02-17,Luxury Living Apartments and Spa,1786641,Studio Apartment,178664106,91
+2022-02-17,Luxury Living Apartments and Spa,1786641,Studio Apartment,178664106,81
+2022-02-17,Luxury Living Apartments and Spa,1786641,Studio Apartment,178664106,90
+2022-02-17,Luxury Living Apartments and Spa,1786641,Suite with Spa Bath,178664111,125
+2022-02-17,Luxury Living Apartments and Spa,1786641,Suite with Spa Bath,178664111,139
+2022-02-17,Luxury Living Apartments and Spa,1786641,Superior Studio,178664102,135
+2022-02-17,Luxury Living Apartments and Spa,1786641,Superior Studio,178664102,150
+2022-02-17,Luxury Living Apartments and Spa,1786641,Superior Studio,178664102,155
+2022-02-17,Luxury Living Apartments and Spa,1786641,Superior Studio,178664102,172
+2022-02-17,Luxury Living Apartments and Spa,1786641,Superior Studio,178664102,134
+2022-02-17,Luxury Living Apartments and Spa,1786641,Superior Studio,178664102,149
+2022-02-17,Εmerald Luxury Suite Thessaloniki,6640299,One-Bedroom Apartment,664029901,73
+2022-02-17,Εmerald Luxury Suite Thessaloniki,6640299,One-Bedroom Apartment,664029901,93
+2022-02-17,Εmerald Luxury Suite Thessaloniki,6640299,One-Bedroom Apartment,664029901,116
+2022-02-17,Metropolitan,96568,Classic Double or Twin Room,9656813,73
+2022-02-17,Metropolitan,96568,Classic Double or Twin Room,9656813,91
+2022-02-17,Metropolitan,96568,Classic Double or Twin Room,9656813,91
+2022-02-17,Metropolitan,96568,Classic Double or Twin Room,9656813,101
+2022-02-17,Metropolitan,96568,Classic Double or Twin Room,9656813,69
+2022-02-17,Metropolitan,96568,Classic Double or Twin Room,9656813,83
+2022-02-17,Metropolitan,96568,Classic Double or Twin Room,9656813,86
+2022-02-17,Metropolitan,96568,Classic Double or Twin Room,9656813,91
+2022-02-17,Metropolitan,96568,Superior Double Room,9656803,101
+2022-02-17,Metropolitan,96568,Superior Double Room,9656803,110
+2022-02-17,Metropolitan,96568,Superior Double Room,9656803,112
+2022-02-17,Metropolitan,96568,Superior Double Room,9656803,122
+2022-02-17,Metropolitan,96568,Superior Double Room,9656803,96
+2022-02-17,Metropolitan,96568,Superior Double Room,9656803,101
+2022-02-17,Metropolitan,96568,Superior Double Room,9656803,106
+2022-02-17,Metropolitan,96568,Superior Double Room,9656803,111
+2022-02-17,Metropolitan,96568,Junior Suite (2 Adults + 1 Child),9656814,147
+2022-02-17,Metropolitan,96568,Junior Suite (2 Adults + 1 Child),9656814,156
+2022-02-17,Metropolitan,96568,Junior Suite (2 Adults + 1 Child),9656814,158
+2022-02-17,Metropolitan,96568,Junior Suite (2 Adults + 1 Child),9656814,173
+2022-02-17,Metropolitan,96568,Junior Suite (2 Adults + 1 Child),9656814,143
+2022-02-17,Metropolitan,96568,Junior Suite (2 Adults + 1 Child),9656814,148
+2022-02-17,Metropolitan,96568,Junior Suite (2 Adults + 1 Child),9656814,163
+2022-02-17,Metropolitan,96568,Premium Suite (2 Adults & 2 Children),9656815,156
+2022-02-17,Metropolitan,96568,Premium Suite (2 Adults & 2 Children),9656815,173
+2022-02-17,Metropolitan,96568,Premium Suite (2 Adults & 2 Children),9656815,173
+2022-02-17,Metropolitan,96568,Premium Suite (2 Adults & 2 Children),9656815,193
+2022-02-17,Metropolitan,96568,Premium Suite (2 Adults & 2 Children),9656815,152
+2022-02-17,Metropolitan,96568,Premium Suite (2 Adults & 2 Children),9656815,163
+2022-02-17,Metropolitan,96568,Premium Suite (2 Adults & 2 Children),9656815,168
+2022-02-17,Metropolitan,96568,Premium Suite (2 Adults & 2 Children),9656815,183
+2022-02-17,Casa Di Famiglia,2867305,Deluxe Apartment,286730501,68
+2022-02-17,Casa Di Famiglia,2867305,Deluxe Apartment,286730501,103
+2022-02-17,Casa Di Famiglia,2867305,Deluxe Apartment,286730501,114
+2022-02-17,Casa Di Famiglia,2867305,Deluxe Apartment,286730501,57
+2022-02-17,Thessaloniki Center Aristotelous Apartment,6844712,Two-Bedroom Apartment,684471201,72
+2022-02-17,Thessaloniki Center Aristotelous Apartment,6844712,Two-Bedroom Apartment,684471201,82
+2022-02-17,Thessaloniki Center Aristotelous Apartment,6844712,Two-Bedroom Apartment,684471201,92
+2022-02-17,Thessaloniki Center Aristotelous Apartment,6844712,Two-Bedroom Apartment,684471201,102
+2022-02-17,Thessaloniki Center Aristotelous Apartment,6844712,Two-Bedroom Apartment,684471201,112
+2022-02-17,Pefka Hotel,48284,Double or Twin Room,4828402,72
+2022-02-17,Pefka Hotel,48284,Double or Twin Room,4828402,79
+2022-02-17,Pefka Hotel,48284,Triple Room,4828403,82
+2022-02-17,Pefka Hotel,48284,Triple Room,4828403,88
+2022-02-17,Pefka Hotel,48284,Executive Cocomat Room (2 adults),4828405,87
+2022-02-17,Pefka Hotel,48284,Executive Cocomat Room (4 adults),4828404,99
+2022-02-17,Pefka Hotel,48284,Single Room,4828401,61
+2022-02-17,Pefka Hotel,48284,Single Room,4828401,67
+2022-02-17,City Center Martha's Apartment,4135088,Apartment,413508801,71
+2022-02-17,ThessHomeLiving,2083782,Deluxe Apartment,208378201,70
+2022-02-17,ThessHomeLiving,2083782,Deluxe Apartment,208378201,80
+2022-02-17,ThessHomeLiving,2083782,Deluxe Apartment,208378201,90
+2022-02-17,ThessHomeLiving,2083782,Deluxe Apartment,208378201,100
+2022-02-17,ThessEasyLiving Apartments,2647308,Deluxe Apartment,264730801,70
+2022-02-17,Rotonda Hotel,96593,Double or Twin Room,9659301,70
+2022-02-17,Rotonda Hotel,96593,Triple Room,9659304,82
+2022-02-17,Rotonda Hotel,96593,Family Room,9659307,136
+2022-02-17,Rotonda Hotel,96593,Single Room,9659302,59
+2022-02-17,Capsis Hotel Thessaloniki,97170,Double Room,9717002,69
+2022-02-17,Capsis Hotel Thessaloniki,97170,Double Room,9717002,78
+2022-02-17,Capsis Hotel Thessaloniki,97170,Double Room,9717002,88
+2022-02-17,Capsis Hotel Thessaloniki,97170,Double Room,9717002,68
+2022-02-17,Capsis Hotel Thessaloniki,97170,Double Room,9717002,71
+2022-02-17,Capsis Hotel Thessaloniki,97170,Double Room,9717002,81
+2022-02-17,Capsis Hotel Thessaloniki,97170,Twin Room,9717014,69
+2022-02-17,Capsis Hotel Thessaloniki,97170,Twin Room,9717014,78
+2022-02-17,Capsis Hotel Thessaloniki,97170,Twin Room,9717014,88
+2022-02-17,Capsis Hotel Thessaloniki,97170,Twin Room,9717014,68
+2022-02-17,Capsis Hotel Thessaloniki,97170,Twin Room,9717014,71
+2022-02-17,Capsis Hotel Thessaloniki,97170,Twin Room,9717014,81
+2022-02-17,Capsis Hotel Thessaloniki,97170,Twin Room - Disability Access,9717013,78
+2022-02-17,Capsis Hotel Thessaloniki,97170,Twin Room - Disability Access,9717013,88
+2022-02-17,Capsis Hotel Thessaloniki,97170,Twin Room - Disability Access,9717013,71
+2022-02-17,Capsis Hotel Thessaloniki,97170,Twin Room - Disability Access,9717013,81
+2022-02-17,Capsis Hotel Thessaloniki,97170,Executive Double Room,9717003,90
+2022-02-17,Capsis Hotel Thessaloniki,97170,Executive Double Room,9717003,100
+2022-02-17,Capsis Hotel Thessaloniki,97170,Executive Double Room,9717003,85
+2022-02-17,Capsis Hotel Thessaloniki,97170,Executive Double Room,9717003,95
+2022-02-17,Capsis Hotel Thessaloniki,97170,Triple Room,9717005,93
+2022-02-17,Capsis Hotel Thessaloniki,97170,Triple Room,9717005,103
+2022-02-17,Capsis Hotel Thessaloniki,97170,Family Room (2 Adults + 2 Children),9717010,108
+2022-02-17,Capsis Hotel Thessaloniki,97170,Family Room (2 Adults + 2 Children),9717010,118
+2022-02-17,Park Hotel,96110,Superior City Room,9611018,63
+2022-02-17,Park Hotel,96110,Superior City Room,9611018,75
+2022-02-17,Park Hotel,96110,Superior Room,9611012,68
+2022-02-17,Park Hotel,96110,Superior Room,9611012,82
+2022-02-17,Park Hotel,96110,Superior Room,9611012,61
+2022-02-17,Park Hotel,96110,Superior Room,9611012,72
+2022-02-17,Park Hotel,96110,Superior Triple Room,9611017,101
+2022-02-17,Park Hotel,96110,Superior Family Room,9611015,142
+2022-02-17,Park Hotel,96110,Superior Family Room,9611015,152
+2022-02-17,Park Hotel,96110,Superior Family Room,9611015,162
+2022-02-17,Hotel Olympia,96677,Standard Room internal view,9667711,67
+2022-02-17,Hotel Olympia,96677,Standard Room internal view,9667711,73
+2022-02-17,Hotel Olympia,96677,Standard Room internal view,9667711,101
+2022-02-17,Hotel Olympia,96677,Twin Room,9667701,71
+2022-02-17,Hotel Olympia,96677,Twin Room,9667701,77
+2022-02-17,Hotel Olympia,96677,Twin Room,9667701,106
+2022-02-17,Hotel Olympia,96677,Executive Double or Twin Room,9667713,84
+2022-02-17,Hotel Olympia,96677,Executive Double or Twin Room,9667713,92
+2022-02-17,Hotel Olympia,96677,Executive Double or Twin Room,9667713,120
+2022-02-17,Hotel Olympia,96677,Junior Suite,9667704,128
+2022-02-17,Hotel Olympia,96677,Junior Suite,9667704,141
+2022-02-17,Hotel Olympia,96677,Junior Suite,9667704,170
+2022-02-17,Hotel Olympia,96677,Triple Room,9667703,92
+2022-02-17,Hotel Olympia,96677,Triple Room,9667703,101
+2022-02-17,Hotel Olympia,96677,Triple Room,9667703,144
+2022-02-17,Hotel Olympia,96677,Family Room,9667707,109
+2022-02-17,Hotel Olympia,96677,Family Room,9667707,119
+2022-02-17,Hotel Olympia,96677,Family Room,9667707,176
+2022-02-17,Hotel Olympia,96677,Standard Room - Disability Access,9667714,109
+2022-02-17,Hotel Olympia,96677,Standard Room - Disability Access,9667714,119
+2022-02-17,Hotel Olympia,96677,Standard Room - Disability Access,9667714,162
+2022-02-17,Hotel Olympia,96677,Single Room,9667702,58
+2022-02-17,Hotel Olympia,96677,Single Room,9667702,62
+2022-02-17,Hotel Olympia,96677,Single Room,9667702,76
+2022-02-17,Ancient Agora Industrial Suite,4009388,Deluxe Apartment,400938801,67
+2022-02-17,Mazi7thFloor #1,2849846,Apartment with Mountain View,284984601,63
+2022-02-17,Perfect Stay Central Suite,5889613,Superior Apartment,588961301,65
+2022-02-17,Philippion,190430,Double or Twin Room,19043002,64
+2022-02-17,Philippion,190430,Double or Twin Room,19043002,73
+2022-02-17,Philippion,190430,Triple Room,19043003,79
+2022-02-17,Philippion,190430,Triple Room,19043003,91
+2022-02-17,Philippion,190430,Single Room,19043001,50
+2022-02-17,Philippion,190430,Single Room,19043001,63
+2022-02-17,Andromeda Hotel Thessaloniki,190378,Standard Double Room with Atrium View,19037808,64
+2022-02-17,Andromeda Hotel Thessaloniki,190378,Standard Double Room with Atrium View,19037808,60
+2022-02-17,Andromeda Hotel Thessaloniki,190378,Executive Room,19037802,73
+2022-02-17,Andromeda Hotel Thessaloniki,190378,Deluxe Room,19037803,82
+2022-02-17,Andromeda Hotel Thessaloniki,190378,Junior Suite with Internal View,19037804,91
+2022-02-17,Andromeda Hotel Thessaloniki,190378,Suite with Spa Bath,19037807,118
+2022-02-17,Perfect Stay Central Suite,5889613,Superior Apartment,588961301,65
+2022-02-17,Abc Hotel,96579,Double Room Interior View,9657916,62
+2022-02-17,Abc Hotel,96579,Double Room Interior View,9657916,68
+2022-02-17,Abc Hotel,96579,Twin Room,9657901,64
+2022-02-17,Abc Hotel,96579,Twin Room,9657901,68
+2022-02-17,Abc Hotel,96579,Twin Room,9657901,70
+2022-02-17,Abc Hotel,96579,Twin Room,9657901,74
+2022-02-17,Abc Hotel,96579,Triple Room,9657907,82
+2022-02-17,Abc Hotel,96579,Triple Room,9657907,89
+2022-02-17,Abc Hotel,96579,Triple Room,9657907,91
+2022-02-17,Abc Hotel,96579,Triple Room,9657907,98
+2022-02-17,Abc Hotel,96579,Quadruple Room,9657919,92
+2022-02-17,Abc Hotel,96579,Quadruple Room,9657919,99
+2022-02-17,Abc Hotel,96579,Quadruple Room,9657919,101
+2022-02-17,Abc Hotel,96579,Quadruple Room,9657919,108
+2022-02-17,Abc Hotel,96579,Single Room Interior View,9657915,52
+2022-02-17,Abc Hotel,96579,Single Room Interior View,9657915,55
+2022-02-17,Abc Hotel,96579,Single Room,9657902,55
+2022-02-17,Abc Hotel,96579,Single Room,9657902,58
+2022-02-17,Abc Hotel,96579,Single Room,9657902,58
+2022-02-17,Abc Hotel,96579,Single Room,9657902,61
+2022-02-17,Philippion,190430,Double or Twin Room,19043002,61
+2022-02-17,Philippion,190430,Double or Twin Room,19043002,73
+2022-02-17,Philippion,190430,Triple Room,19043003,75
+2022-02-17,Philippion,190430,Triple Room,19043003,91
+2022-02-17,Philippion,190430,Single Room,19043001,47
+2022-02-17,Philippion,190430,Single Room,19043001,63
+2022-02-17,"Elle, Nilie Hospitality MGMT",3657642,Two-Bedroom Apartment,365764201,64
+2022-02-17,"Elle, Nilie Hospitality MGMT",3657642,Two-Bedroom Apartment,365764201,64
+2022-02-17,"Elle, Nilie Hospitality MGMT",3657642,Two-Bedroom Apartment,365764201,74
+2022-02-17,"Elle, Nilie Hospitality MGMT",3657642,Two-Bedroom Apartment,365764201,84
+2022-02-17,"Elle, Nilie Hospitality MGMT",3657642,Two-Bedroom Apartment,365764201,94
+2022-02-17,New deluxe studio 4 downtown Thessaloniki- Fully equiped,7817352,One-Bedroom Apartment,781735201,60
+2022-02-17,New deluxe studio 4 downtown Thessaloniki- Fully equiped,7817352,One-Bedroom Apartment,781735201,65
+2022-02-17,New deluxe studio 4 downtown Thessaloniki- Fully equiped,7817352,One-Bedroom Apartment,781735201,70
+2022-02-17,Egnatia Flat,2431381,Apartment with Sea View,243138101,60
+2022-02-17,New deluxe studio 1 downtown Thessaloniki-Fully equipped,7712605,One-Bedroom Apartment,771260501,60
+2022-02-17,New deluxe studio 1 downtown Thessaloniki-Fully equipped,7712605,One-Bedroom Apartment,771260501,65
+2022-02-17,New deluxe studio 1 downtown Thessaloniki-Fully equipped,7712605,One-Bedroom Apartment,771260501,70
+2022-02-17,Astoria,11873,Budget Double Room with Small Double Bed,1187308,60
+2022-02-17,Astoria,11873,Budget Double Room with Small Double Bed,1187308,73
+2022-02-17,Astoria,11873,Budget Double Room with Small Double Bed,1187308,63
+2022-02-17,Astoria,11873,Double Room with City View and Balcony,1187301,69
+2022-02-17,Astoria,11873,Double Room with City View and Balcony,1187301,81
+2022-02-17,Astoria,11873,Double Room with City View and Balcony,1187301,65
+2022-02-17,Astoria,11873,Double Room with City View and Balcony,1187301,67
+2022-02-17,Astoria,11873,Penthouse Suite with City View,1187305,105
+2022-02-17,Astoria,11873,Penthouse Suite with City View,1187305,113
+2022-02-17,Astoria,11873,Penthouse Suite with City View,1187305,116
+2022-02-17,Astoria,11873,Penthouse Suite with City View,1187305,138
+2022-02-17,Astoria,11873,Family Room (Connecting Room),1187303,132
+2022-02-17,Astoria,11873,Family Room (Connecting Room),1187303,147
+2022-02-17,Astoria,11873,Family Room (Connecting Room),1187303,156
+2022-02-17,Astoria,11873,Family Room (Connecting Room),1187303,175
+2022-02-17,Astoria,11873,Budget Single Room with Single Bed,1187307,56
+2022-02-17,Astoria,11873,Budget Single Room with Single Bed,1187307,59
+2022-02-17,Ask Cozy Rooms,4661403,Deluxe Double Room,466140307,58
+2022-02-17,Ask Cozy Rooms,4661403,Deluxe Double Room,466140301,69
+2022-02-17,Queen Olga Hotel,249694,Double or Twin Room with Balcony,24969409,59
+2022-02-17,Queen Olga Hotel,249694,Double or Twin Room with Balcony,24969409,74
+2022-02-17,Queen Olga Hotel,249694,Superior Twin Room,24969417,71
+2022-02-17,Queen Olga Hotel,249694,Superior Twin Room,24969417,85
+2022-02-17,Queen Olga Hotel,249694,Triple Room with Balcony,24969410,74
+2022-02-17,Queen Olga Hotel,249694,Triple Room with Balcony,24969410,96
+2022-02-17,Queen Olga Hotel,249694,Twin Room with Sea View,24969408,74
+2022-02-17,Queen Olga Hotel,249694,Twin Room with Sea View,24969408,89
+2022-02-17,Queen Olga Hotel,249694,Triple Room with Sea View,24969411,82
+2022-02-17,Queen Olga Hotel,249694,Triple Room with Sea View,24969411,104
+2022-02-17,Queen Olga Hotel,249694,Single Room with Balcony,24969401,45
+2022-02-17,Queen Olga Hotel,249694,Single Room with Balcony,24969401,52
+2022-02-17,Septa Studios by Skg Apartments,5939590,Double Room,593959001,59
+2022-02-17,Septa Studios by Skg Apartments,5939590,Deluxe Studio,593959009,74
+2022-02-17,Septa Studios by Skg Apartments,5939590,Deluxe Studio,593959009,101
+2022-02-17,Septa Studios by Skg Apartments,5939590,Deluxe Studio,593959009,127
+2022-02-17,Septa Studios by Skg Apartments,5939590,Comfort Studio,593959010,74
+2022-02-17,Septa Studios by Skg Apartments,5939590,Comfort Studio,593959010,101
+2022-02-17,Septa Studios by Skg Apartments,5939590,Deluxe Studio with City View,593959011,74
+2022-02-17,Septa Studios by Skg Apartments,5939590,Deluxe Studio with City View,593959011,101
+2022-02-17,Septa Studios by Skg Apartments,5939590,Deluxe Studio with City View,593959011,127
+2022-02-17,Septa Studios by Skg Apartments,5939590,Junior Suite with Sea View,593959008,86
+2022-02-17,Septa Studios by Skg Apartments,5939590,Junior Suite with Sea View,593959008,112
+2022-02-17,Septa Studios by Skg Apartments,5939590,Junior Suite with Sea View,593959008,139
+2022-02-17,Le Palace Art Hotel,95453,Double or Twin Room,9545302,58
+2022-02-17,Le Palace Art Hotel,95453,Double or Twin Room,9545302,70
+2022-02-17,Le Palace Art Hotel,95453,Superior Room,9545304,82
+2022-02-17,Le Palace Art Hotel,95453,Family Room (3 Adults + 1 Child),9545305,86
+2022-02-17,Le Palace Art Hotel,95453,Executive Room,9545303,86
+2022-02-17,Le Palace Art Hotel,95453,Single Room,9545301,53
+2022-02-17,Le Palace Art Hotel,95453,Single Room,9545301,64
+2022-02-17,British Wood 'n Stone House,6919879,One-Bedroom Apartment,691987901,61
+2022-02-17,British Wood 'n Stone House,6919879,One-Bedroom Apartment,691987901,68
+2022-02-17,Lion Apartment Sunset,3493728,Deluxe Apartment,349372801,58
+2022-02-17,Oceanis,438117,Double or Twin Room,43811702,61
+2022-02-17,Oceanis,438117,Triple Room,43811703,71
+2022-02-17,Kastalia Living Thessaloniki,7519575,One-Bedroom Apartment,751957501,55
+2022-02-17,Kastalia Living Thessaloniki,7519575,One-Bedroom Apartment,751957501,58
+2022-02-17,Kastalia Living Thessaloniki,7519575,One-Bedroom Apartment,751957501,61
+2022-02-17,New deluxe studio 2 downtown Thessaloniki-Fully equiped,7804628,One-Bedroom Apartment,780462801,57
+2022-02-17,"SkyHigh, Nilie Hospitality MGMT",7768771,One-Bedroom Apartment,776877101,57
+2022-02-17,"SkyHigh, Nilie Hospitality MGMT",7768771,One-Bedroom Apartment,776877101,63
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Standard Double Room,617671901,56
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Standard Double Room,617671901,59
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Standard Double Room,617671901,61
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Standard Double Room,617671901,64
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Standard Double Room,617671901,54
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Standard Double Room,617671901,56
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Standard Double Room,617671901,58
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Standard Double Room,617671901,61
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Deluxe Double Room,617671902,65
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Deluxe Double Room,617671902,68
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Deluxe Double Room,617671902,70
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Deluxe Double Room,617671902,74
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Deluxe Double Room,617671902,62
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Deluxe Double Room,617671902,65
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Deluxe Double Room,617671902,66
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Deluxe Double Room,617671902,71
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Superior King Room,617671903,68
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Superior King Room,617671903,75
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Superior King Room,617671903,78
+2022-02-17,City Gate Hotel Airport Thessaloniki,6176719,Superior King Room,617671903,83
+2022-02-17,Vergina Hotel,97594,Double Room,9759403,56
+2022-02-17,Vergina Hotel,97594,Double Room,9759403,60
+2022-02-17,Vergina Hotel,97594,Twin Room,9759416,56
+2022-02-17,Vergina Hotel,97594,Twin Room,9759416,60
+2022-02-17,Vergina Hotel,97594,Double Room with Free Parking,9759410,60
+2022-02-17,Vergina Hotel,97594,Superior Double Room,9759413,61
+2022-02-17,Vergina Hotel,97594,Superior Double Room,9759413,65
+2022-02-17,Vergina Hotel,97594,Family Room (2 Adults + 2 Children),9759408,66
+2022-02-17,Vergina Hotel,97594,Family Room (2 Adults + 2 Children),9759408,74
+2022-02-17,Vergina Hotel,97594,Family Room with Bunk Bed,9759414,70
+2022-02-17,Vergina Hotel,97594,Family Room with Bunk Bed,9759414,77
+2022-02-17,Vergina Hotel,97594,Family Room with Free Parking (2 Adults + 2 Children),9759411,71
+2022-02-17,Vergina Hotel,97594,Triple Room,9759404,64
+2022-02-17,Vergina Hotel,97594,Triple Room,9759404,69
+2022-02-17,Vergina Hotel,97594,Quadruple Room,9759409,70
+2022-02-17,Vergina Hotel,97594,Quadruple Room,9759409,77
+2022-02-17,Vergina Hotel,97594,Single Room,9759401,49
+2022-02-17,Vergina Hotel,97594,Single Room,9759401,51
+2022-02-17,Vergina Hotel,97594,Superior Single Room,9759412,54
+2022-02-17,Vergina Hotel,97594,Superior Single Room,9759412,56
+2022-02-17,#Harmony Studios by halu! Apartments,6020597,Queen Studio,602059701,59
+2022-02-17,Manina Superior Apartment,2657745,One-Bedroom Apartment,265774501,55
+2022-02-17,Manina Superior Apartment,2657745,One-Bedroom Apartment,265774501,65
+2022-02-17,Manina Superior Apartment,2657745,One-Bedroom Apartment,265774501,75
+2022-02-17,Thessaloniki Center Small Studio Apartment,5699894,One-Bedroom Apartment,569989401,55
+2022-02-17,Thessaloniki Center Small Studio Apartment,5699894,One-Bedroom Apartment,569989401,65
+2022-02-17,Thessaloniki Center Small Studio Apartment,5699894,One-Bedroom Apartment,569989401,75
+2022-02-17,Vesta,7921610,Two-Bedroom Apartment,792161001,55
+2022-02-17,Vesta,7921610,Two-Bedroom Apartment,792161001,64
+2022-02-17,Vesta,7921610,Two-Bedroom Apartment,792161001,75
+2022-02-17,Vesta,7921610,Two-Bedroom Apartment,792161001,48
+2022-02-17,Sharks Thessaloniki Big Balcony House,6580404,Apartment with Balcony,658040401,58
+2022-02-17,Sharks Thessaloniki Big Balcony House,6580404,Apartment with Balcony,658040401,68
+2022-02-17,Sharks Thessaloniki Big Balcony House,6580404,Apartment with Balcony,658040401,77
+2022-02-17,Sharks Thessaloniki Big Balcony House,6580404,Apartment with Balcony,658040401,85
+2022-02-17,Vergina Hotel,97594,Double Room,9759403,56
+2022-02-17,Vergina Hotel,97594,Double Room,9759403,60
+2022-02-17,Vergina Hotel,97594,Twin Room,9759416,56
+2022-02-17,Vergina Hotel,97594,Twin Room,9759416,60
+2022-02-17,Vergina Hotel,97594,Double Room with Free Parking,9759410,60
+2022-02-17,Vergina Hotel,97594,Superior Double Room,9759413,61
+2022-02-17,Vergina Hotel,97594,Superior Double Room,9759413,65
+2022-02-17,Vergina Hotel,97594,Triple Room,9759404,64
+2022-02-17,Vergina Hotel,97594,Triple Room,9759404,69
+2022-02-17,Vergina Hotel,97594,Family Room (2 Adults + 2 Children),9759408,66
+2022-02-17,Vergina Hotel,97594,Family Room (2 Adults + 2 Children),9759408,74
+2022-02-17,Vergina Hotel,97594,Quadruple Room,9759409,70
+2022-02-17,Vergina Hotel,97594,Quadruple Room,9759409,77
+2022-02-17,Vergina Hotel,97594,Family Room with Bunk Bed,9759414,70
+2022-02-17,Vergina Hotel,97594,Family Room with Bunk Bed,9759414,77
+2022-02-17,Vergina Hotel,97594,Family Room with Free Parking (2 Adults + 2 Children),9759411,71
+2022-02-17,Vergina Hotel,97594,Single Room,9759401,49
+2022-02-17,Vergina Hotel,97594,Single Room,9759401,51
+2022-02-17,Vergina Hotel,97594,Superior Single Room,9759412,54
+2022-02-17,Vergina Hotel,97594,Superior Single Room,9759412,56
+2022-02-17,Manina Superior Apartment,2657745,One-Bedroom Apartment,265774501,55
+2022-02-17,Manina Superior Apartment,2657745,One-Bedroom Apartment,265774501,65
+2022-02-17,Manina Superior Apartment,2657745,One-Bedroom Apartment,265774501,75
+2022-02-17,Thessaloniki Center Small Studio Apartment,5699894,One-Bedroom Apartment,569989401,55
+2022-02-17,Thessaloniki Center Small Studio Apartment,5699894,One-Bedroom Apartment,569989401,65
+2022-02-17,Thessaloniki Center Small Studio Apartment,5699894,One-Bedroom Apartment,569989401,75
+2022-02-17,Vesta,7921610,Two-Bedroom Apartment,792161001,55
+2022-02-17,Vesta,7921610,Two-Bedroom Apartment,792161001,64
+2022-02-17,Vesta,7921610,Two-Bedroom Apartment,792161001,75
+2022-02-17,Vesta,7921610,Two-Bedroom Apartment,792161001,48
+2022-02-17,Telioni Hotel,96564,Double Room,9656401,54
+2022-02-17,Telioni Hotel,96564,Triple Room,9656403,64
+2022-02-17,Telioni Hotel,96564,Single Room,9656402,45
+2022-02-17,White Bottle Superior Apartments,2872641,Apartment,287264102,54
+2022-02-17,White Bottle Superior Apartments,2872641,Apartment,287264102,54
+2022-02-17,Grand Port Suites,5300829,Standard Double or Twin Room,530082901,54
+2022-02-17,Grand Port Suites,5300829,Standard Double or Twin Room,530082901,49
+2022-02-17,"93, Nilie Hospitality MGMT",6660281,One-Bedroom Apartment,666028101,51
+2022-02-17,"93, Nilie Hospitality MGMT",6660281,One-Bedroom Apartment,666028101,53
+2022-02-17,"Amarillo, Nilie Hospitality MGMT",6591346,Deluxe Apartment,659134603,53
+2022-02-17,"Amarillo, Nilie Hospitality MGMT",6591346,Deluxe Apartment,659134603,56
+2022-02-17,"Amarillo, Nilie Hospitality MGMT",6591346,Deluxe Apartment,659134603,62
+2022-02-17,"Amarillo, Nilie Hospitality MGMT",6591346,Deluxe Apartment,659134603,66
+2022-02-17,"Amarillo, Nilie Hospitality MGMT",6591346,Deluxe Apartment,659134603,71
+2022-02-17,"Amarillo, Nilie Hospitality MGMT",6591346,Deluxe Apartment,659134603,75
+2022-02-17,Hotel Rex,96230,Double Room,9623002,51
+2022-02-17,Hotel Rex,96230,Double Room,9623002,56
+2022-02-17,Hotel Rex,96230,Classic Double Room,9623007,51
+2022-02-17,Hotel Rex,96230,Classic Double Room,9623007,56
+2022-02-17,Hotel Rex,96230,Triple Room,9623003,58
+2022-02-17,Hotel Rex,96230,Triple Room,9623003,65
+2022-02-17,The Trilogy House,1828530,Sea View Studio with Balcony,182853006,53
+2022-02-17,The Trilogy House,1828530,Sea View Studio with Balcony,182853006,49
+2022-02-17,The Trilogy House,1828530,Studio with Sea View,182853002,56
+2022-02-17,The Trilogy House,1828530,Studio with Sea View,182853002,59
+2022-02-17,The Trilogy House,1828530,Studio with Sea View,182853002,52
+2022-02-17,The Trilogy House,1828530,Suite,182853004,58
+2022-02-17,The Trilogy House,1828530,Suite,182853004,54
+2022-02-17,Alexandros Inn,7513518,One-Bedroom Apartment,751351801,52
+2022-02-17,"The SkySphere, Nilie Hospitality MGMT",7729043,Apartment,772904303,51
+2022-02-17,"The SkySphere, Nilie Hospitality MGMT",7729043,Apartment,772904303,56
+2022-02-17,"The SkySphere, Nilie Hospitality MGMT",7729043,Superior Apartment,772904305,51
+2022-02-17,"The SkySphere, Nilie Hospitality MGMT",7729043,Superior Apartment,772904305,56
+2022-02-17,Amalia,350524,Double Room,35052404,51
+2022-02-17,Amalia,350524,Twin Room,35052401,51
+2022-02-17,Amalia,350524,Triple Room,35052402,61
+2022-02-17,Amalia,350524,Single Room,35052403,41
+2022-02-17,"Ipanema, Nilie Hospitality MGMT",7128146,One-Bedroom Apartment,712814603,50
+2022-02-17,"Ipanema, Nilie Hospitality MGMT",7128146,One-Bedroom Apartment,712814603,56
+2022-02-17,"Ipanema, Nilie Hospitality MGMT",7128146,One-Bedroom Apartment,712814603,72
+2022-02-17,"Ipanema, Nilie Hospitality MGMT",7128146,One-Bedroom Apartment,712814602,50
+2022-02-17,"Ipanema, Nilie Hospitality MGMT",7128146,One-Bedroom Apartment,712814602,56
+2022-02-17,"Ipanema, Nilie Hospitality MGMT",7128146,One-Bedroom Apartment,712814602,72
+2022-02-17,"Ipanema, Nilie Hospitality MGMT",7128146,One-Bedroom Apartment,712814601,50
+2022-02-17,"Ipanema, Nilie Hospitality MGMT",7128146,One-Bedroom Apartment,712814601,56
+2022-02-17,"Ipanema, Nilie Hospitality MGMT",7128146,One-Bedroom Apartment,712814601,65
+2022-02-17,"Ipanema, Nilie Hospitality MGMT",7128146,One-Bedroom Apartment,712814601,72
+2022-02-17,Agias Sofias 71C perfect studio,7761752,One-Bedroom Apartment,776175201,50
+2022-02-17,perfect place -Agias Sofias 71Α,7758469,Two-Bedroom Apartment,775846901,50
+2022-02-17,perfect place -Agias Sofias 71Α,7758469,Two-Bedroom Apartment,775846901,65
+2022-02-17,perfect place -Agias Sofias 71Α,7758469,Two-Bedroom Apartment,775846901,80
+2022-02-17,GraffitiSuites#Bronze,4334697,One-Bedroom Apartment,433469701,50
+2022-02-17,GraffitiSuites#Bronze,4334697,One-Bedroom Apartment,433469701,65
+2022-02-17,GraffitiSuites#Bronze,4334697,One-Bedroom Apartment,433469701,80
+2022-02-17,Rental rooms thessaloniki,6560379,Deluxe Apartment,656037901,48
+2022-02-17,Rental rooms thessaloniki,6560379,Deluxe Apartment,656037902,48
+2022-02-17,Zeus is Loose Hostel,6869744,Economy Twin Room,686974401,50
+2022-02-17,Zeus is Loose Hostel,6869744,Standard Twin Room,686974402,52
+2022-02-17,Zeus is Loose Hostel,6869744,Double Room with Mountain View,686974405,57
+2022-02-17,Zeus is Loose Hostel,6869744,Double Room with Mountain View,686974404,57
+2022-02-17,Zeus is Loose Hostel,6869744,Bed in 6-Bed Mixed Dormitory Room,686974411,19
+2022-02-17,Zeus is Loose Hostel,6869744,Bed in 4-Bed Mixed Dormitory Room,686974410,22
+2022-02-17,Zeus is Loose Hostel,6869744,Bed in 4-Bed Female Dormitory Room,686974409,22
+2022-02-17,Valory #4 Aesthetic Stay,7555725,One-Bedroom Apartment,755572501,47
+2022-02-17,Valory #4 Aesthetic Stay,7555725,One-Bedroom Apartment,755572501,52
+2022-02-17,Valory #4 Aesthetic Stay,7555725,One-Bedroom Apartment,755572501,50
+2022-02-17,Valory #4 Aesthetic Stay,7555725,One-Bedroom Apartment,755572501,56
+2022-02-17,Valory #4 Aesthetic Stay,7555725,One-Bedroom Apartment,755572501,56
+2022-02-17,Valory #4 Aesthetic Stay,7555725,One-Bedroom Apartment,755572501,62
+2022-02-17,Valory #4 Aesthetic Stay,7555725,One-Bedroom Apartment,755572501,44
+2022-02-17,Valory #4 Aesthetic Stay,7555725,One-Bedroom Apartment,755572501,49
+2022-02-17,Valory #7 Aesthetic Stay,7533296,Studio,753329601,50
+2022-02-17,Valory #7 Aesthetic Stay,7533296,Studio,753329601,55
+2022-02-17,Valory #7 Aesthetic Stay,7533296,Studio,753329601,45
+2022-02-17,Valory #7 Aesthetic Stay,7533296,Studio,753329601,50
+2022-02-17,RentRooms Thessaloniki,175887,Twin Room with Extra Bed,17588712,50
+2022-02-17,RentRooms Thessaloniki,175887,Twin Room with Extra Bed,17588712,59
+2022-02-17,RentRooms Thessaloniki,175887,Triple Room,17588702,55
+2022-02-17,RentRooms Thessaloniki,175887,Triple Room,17588702,60
+2022-02-17,RentRooms Thessaloniki,175887,Quadruple Room,17588703,60
+2022-02-17,RentRooms Thessaloniki,175887,Quadruple Room,17588703,66
+2022-02-17,RentRooms Thessaloniki,175887,Quadruple Room,17588703,72
+2022-02-17,RentRooms Thessaloniki,175887,Bunk Bed in Female Dormitory Room,17588706,15
+2022-02-17,RentRooms Thessaloniki,175887,Bunk Bed in Female Dormitory Room,17588706,16
+2022-02-17,RentRooms Thessaloniki,175887,Bunk Bed in Female Dormitory Room,17588706,18
+2022-02-17,RentRooms Thessaloniki,175887,Bunk Bed in Male Dormitory Room,17588705,15
+2022-02-17,RentRooms Thessaloniki,175887,Bunk Bed in Male Dormitory Room,17588705,16
+2022-02-17,RentRooms Thessaloniki,175887,Bunk Bed in Male Dormitory Room,17588705,18
+2022-02-17,Byzantio Hotel,95686,Standard Double Room,9568612,49
+2022-02-17,Byzantio Hotel,95686,Standard Double Room,9568612,49
+2022-02-17,Byzantio Hotel,95686,Standard Double Room,9568612,55
+2022-02-17,Byzantio Hotel,95686,Standard Double Room,9568612,55
+2022-02-17,Byzantio Hotel,95686,Standard Double Room,9568612,49
+2022-02-17,Byzantio Hotel,95686,Triple Room,9568609,55
+2022-02-17,Byzantio Hotel,95686,Triple Room,9568609,55
+2022-02-17,Byzantio Hotel,95686,Triple Room,9568609,63
+2022-02-17,Byzantio Hotel,95686,Triple Room,9568609,63
+2022-02-17,Orestias Kastorias,96570,Double Room,9657002,49
+2022-02-17,Orestias Kastorias,96570,Triple Room,9657003,60
+2022-02-17,Orestias Kastorias,96570,Single Room,9657001,40
+2022-02-17,"Big Apple #7, Nilie Hospitality MGMT",7953874,Deluxe Apartment,795387439,49
+2022-02-17,"Big Apple #7, Nilie Hospitality MGMT",7953874,Apartment,795387412,49
+2022-02-17,"Timesquare, Nilie Hospitality MGMT",7729248,Deluxe Room,772924802,49
+2022-02-17,"Big Apple #2, Nilie Hospitality MGMT",7104888,Apartment,710488853,45
+2022-02-17,"Big Apple #2, Nilie Hospitality MGMT",7104888,Apartment,710488849,45
+2022-02-17,"Big Apple #2, Nilie Hospitality MGMT",7104888,Apartment,710488851,45
+2022-02-17,"Big Apple #2, Nilie Hospitality MGMT",7104888,Apartment,710488852,45
+2022-02-17,"Big Apple #2, Nilie Hospitality MGMT",7104888,Apartment,710488855,45
+2022-02-17,Dogu 1,7946142,One-Bedroom Apartment,794614201,45
+2022-02-17,Dogu 1,7946142,One-Bedroom Apartment,794614201,53
+2022-02-17,Valory #6 Aesthetic Stay,7532933,Studio,753293301,46
+2022-02-17,Valory #6 Aesthetic Stay,7532933,Studio,753293301,51
+2022-02-17,Valory #6 Aesthetic Stay,7532933,Studio,753293301,51
+2022-02-17,Valory #6 Aesthetic Stay,7532933,Studio,753293301,57
+2022-02-17,Valory #6 Aesthetic Stay,7532933,Studio,753293301,41
+2022-02-17,Valory #6 Aesthetic Stay,7532933,Studio,753293301,46
+2022-02-17,"Civilian Boutique Apartments, Nilie Hospitality MGMT",4791623,Deluxe Apartment,479162304,48
+2022-02-17,"Civilian Boutique Apartments, Nilie Hospitality MGMT",4791623,Deluxe Apartment,479162304,50
+2022-02-17,"Civilian Boutique Apartments, Nilie Hospitality MGMT",4791623,Deluxe Apartment,479162304,56
+2022-02-17,"Civilian Boutique Apartments, Nilie Hospitality MGMT",4791623,Deluxe Apartment,479162304,59
+2022-02-17,"Civilian Boutique Apartments, Nilie Hospitality MGMT",4791623,Deluxe Apartment,479162304,64
+2022-02-17,"Civilian Boutique Apartments, Nilie Hospitality MGMT",4791623,Deluxe Apartment,479162304,67
+2022-02-17,"Civilian Boutique Apartments, Nilie Hospitality MGMT",4791623,Deluxe Apartment,479162308,50
+2022-02-17,"Civilian Boutique Apartments, Nilie Hospitality MGMT",4791623,Deluxe Apartment,479162308,59
+2022-02-17,"Civilian Boutique Apartments, Nilie Hospitality MGMT",4791623,Deluxe Apartment,479162308,67
+2022-02-17,Thessaloniki Center Town Wifi Studio,5581217,Family Studio,558121701,45
+2022-02-17,Thessaloniki Center Town Wifi Studio,5581217,Family Studio,558121701,50
+2022-02-17,Thessaloniki Center Town Wifi Studio,5581217,Family Studio,558121701,53
+2022-02-17,Luxury Apartments in Skg,4519713,Two-Bedroom Apartment,451971301,48
+2022-02-17,Luxury Apartments in Skg,4519713,Two-Bedroom Apartment,451971301,53
+2022-02-17,Luxury Apartments in Skg,4519713,Two-Bedroom Apartment,451971301,58
+2022-02-17,Aegeon Hotel,95052,Special Offer - Double or Twin Room,9505208,48
+2022-02-17,Aegeon Hotel,95052,Special Offer - Double or Twin Room,9505208,57
+2022-02-17,Aegeon Hotel,95052,Triple Room,9505204,62
+2022-02-17,Aegeon Hotel,95052,Triple Room,9505204,70
+2022-02-17,Aegeon Hotel,95052,Triple Room,9505204,82
+2022-02-17,Aegeon Hotel,95052,Triple Room,9505204,83
+2022-02-17,Aegeon Hotel,95052,Double Room,9505202,62
+2022-02-17,Aegeon Hotel,95052,Double Room,9505202,74
+2022-02-17,Aegeon Hotel,95052,Twin Room,9505205,62
+2022-02-17,Aegeon Hotel,95052,Twin Room,9505205,74
+2022-02-17,Aegeon Hotel,95052,Single Room,9505201,45
+2022-02-17,Aegeon Hotel,95052,Single Room,9505201,50
+2022-02-17,Aegeon Hotel,95052,Single Room,9505201,52
+2022-02-17,Aegeon Hotel,95052,Single Room,9505201,57
+2022-02-17,"Panama, Nilie Hospitality MGMT",7137138,One-Bedroom Apartment,713713801,45
+2022-02-17,"Panama, Nilie Hospitality MGMT",7137138,One-Bedroom Apartment,713713801,50
+2022-02-17,"Panama, Nilie Hospitality MGMT",7137138,One-Bedroom Apartment,713713801,56
+2022-02-17,"Panama, Nilie Hospitality MGMT",7137138,One-Bedroom Apartment,713713801,61
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295103,44
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295103,47
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295103,52
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295103,55
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295106,44
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295106,47
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295106,52
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295106,55
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295102,45
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295102,48
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295102,53
+2022-02-17,"DeniZen Boutique Apartments, Nilie Hospitality MGMT",5582951,Deluxe Apartment,558295102,56
+2022-02-17,Relaxing City Central Suite,4145545,Studio Apartment,414554501,42
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Cozy Room,521221918,46
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Cozy Room,521221918,39
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Ground Floor Room,521221903,48
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Ground Floor Room,521221903,57
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Ground Floor Room,521221903,42
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Superior Room,521221901,50
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Superior Room,521221901,43
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Deluxe Room,521221902,52
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Deluxe Room,521221902,60
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Deluxe Room,521221902,45
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Standard Room with Balcony,521221904,52
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Standard Room with Balcony,521221904,45
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Two-Bedroom Apartment,521221917,73
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Two-Bedroom Apartment,521221917,82
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Two-Bedroom Apartment,521221917,91
+2022-02-17,City Plaza Apartments &amp; Rooms,5212219,Two-Bedroom Apartment,521221917,66
+2022-02-17,Cosy Central Penthouse -up to 6 guests- with WiFi,5402092,Penthouse Apartment,540209201,43
+2022-02-17,Cosy Central Penthouse -up to 6 guests- with WiFi,5402092,Penthouse Apartment,540209201,52
+2022-02-17,Cosy Central Penthouse -up to 6 guests- with WiFi,5402092,Penthouse Apartment,540209201,62
+2022-02-17,Cosy Central Penthouse -up to 6 guests- with WiFi,5402092,Penthouse Apartment,540209201,71
+2022-02-17,Cosy Central Penthouse -up to 6 guests- with WiFi,5402092,Penthouse Apartment,540209201,81
+2022-02-17,"Noëma, Nilie Hospitality MGMT",7723006,Apartment,772300605,44
+2022-02-17,"Noëma, Nilie Hospitality MGMT",7723006,Apartment,772300605,49
+2022-02-17,"Noëma, Nilie Hospitality MGMT",7723006,Apartment,772300607,44
+2022-02-17,"Noëma, Nilie Hospitality MGMT",7723006,Apartment,772300607,49
+2022-02-17,"Noëma, Nilie Hospitality MGMT",7723006,Deluxe Apartment,772300609,49
+2022-02-17,Nea Metropolis,97350,Double Room,9735002,42
+2022-02-17,Nea Metropolis,97350,Double Room,9735002,50
+2022-02-17,Nea Metropolis,97350,Double Room,9735002,55
+2022-02-17,Nea Metropolis,97350,Twin Room,9735007,42
+2022-02-17,Nea Metropolis,97350,Twin Room,9735007,50
+2022-02-17,Nea Metropolis,97350,Twin Room,9735007,55
+2022-02-17,Nea Metropolis,97350,Triple Room,9735003,55
+2022-02-17,Nea Metropolis,97350,Triple Room,9735003,60
+2022-02-17,Nea Metropolis,97350,Triple Room,9735003,75
+2022-02-17,Nea Metropolis,97350,Single Room,9735001,38
+2022-02-17,Nea Metropolis,97350,Single Room,9735001,42
+2022-02-17,Nea Metropolis,97350,Single Room,9735001,45
+2022-02-17,Ilios,266322,Double or Twin Room,26632202,41
+2022-02-17,Ilios,266322,Double or Twin Room,26632202,46
+2022-02-17,Ilios,266322,Triple Room,26632203,55
+2022-02-17,Ilios,266322,Triple Room,26632203,61
+2022-02-17,Ilios,266322,Single Room,26632204,32
+2022-02-17,Ilios,266322,Single Room,26632204,36
+2022-02-17,Alexandria Hotel,23498,Double or Twin Room,2349807,40
+2022-02-17,Alexandria Hotel,23498,Triple Room,2349803,47
+2022-02-17,Alexandria Hotel,23498,Triple Room,2349803,65
+2022-02-17,Alexandria Hotel,23498,Special Offer - Double or Twin Room Parking included,2349810,52
+2022-02-17,Alexandria Hotel,23498,Quadruple Room,2349804,57
+2022-02-17,Alexandria Hotel,23498,Quadruple Room,2349804,81
+2022-02-17,Alexandria Hotel,23498,Single Room,2349802,35
+2022-02-17,Alexandria Hotel,23498,Single Room,2349802,55
+2022-02-17,Alexandria Hotel,23498,Special Offer - Single Room Parking included,2349809,47
+2022-02-17,Studio in Thessaloniki near airport and exit for Chalkidiki,5714195,Apartment with Sea View,571419501,40
+2022-02-17,Studio in Thessaloniki near airport and exit for Chalkidiki,5714195,Apartment with Sea View,571419501,52
+2022-02-17,Studio in Thessaloniki near airport and exit for Chalkidiki,5714195,Apartment with Sea View,571419501,64
+2022-02-17,Ariadni Apartment,2485898,Studio Apartment,248589801,39
+2022-02-17,Ariadni Apartment,2485898,Studio Apartment,248589801,38
+2022-02-17,Glam Boutique Apartments - Thessaloniki Heart,7871332,Studio,787133202,39
+2022-02-17,Glam Boutique Apartments - Thessaloniki Heart,7871332,Studio,787133205,40
+2022-02-17,Stay Hybrid Hostel,2601480,Double Room with Private Bathroom,260148001,36
+2022-02-17,Stay Hybrid Hostel,2601480,Double Room with Private Bathroom,260148001,40
+2022-02-17,Stay Hybrid Hostel,2601480,Double Room with Private Bathroom,260148001,29
+2022-02-17,Stay Hybrid Hostel,2601480,Double Room with Private Bathroom,260148001,33
+2022-02-17,Stay Hybrid Hostel,2601480,Twin Room with Private Bathroom,260148002,36
+2022-02-17,Stay Hybrid Hostel,2601480,Twin Room with Private Bathroom,260148002,40
+2022-02-17,Stay Hybrid Hostel,2601480,Triple Room with Private Bathroom,260148003,39
+2022-02-17,Stay Hybrid Hostel,2601480,Triple Room with Private Bathroom,260148003,42
+2022-02-17,Stay Hybrid Hostel,2601480,Triple Room with Private Bathroom,260148003,45
+2022-02-17,Stay Hybrid Hostel,2601480,Triple Room with Private Bathroom,260148003,48
+2022-02-17,Stay Hybrid Hostel,2601480,Single Bed in Female Dormitory Room,260148010,10
+2022-02-17,Stay Hybrid Hostel,2601480,Bed in 6-Bed Female Dormitory Room,260148014,11
+2022-02-17,Stay Hybrid Hostel,2601480,Bed in 6-Bed Female Dormitory Room,260148014,13
+2022-02-17,Stay Hybrid Hostel,2601480,Bed in 4-Bed Female Dormitory Room,260148013,13
+2022-02-17,Stay Hybrid Hostel,2601480,Bed in 4-Bed Female Dormitory Room,260148013,15
+2022-02-17,Stay Hybrid Hostel,2601480,Bed in 4-Bed Mixed Dormitory Room,260148008,13
+2022-02-17,Stay Hybrid Hostel,2601480,Bed in 4-Bed Mixed Dormitory Room,260148008,15
+2022-02-17,Stay Hybrid Hostel,2601480,Single Bed in Mixed Dormitory Room,260148011,15
+2022-02-17,Stay Hybrid Hostel,2601480,Single Bed in Mixed Dormitory Room,260148011,17
+2022-02-17,Stay Hybrid Hostel,2601480,Bed in 4-Bed Mixed Dormitory Room - DIsability Access,260148009,15
+2022-02-17,Stay Hybrid Hostel,2601480,Bed in 4-Bed Mixed Dormitory Room - DIsability Access,260148009,17
+2022-02-17,Aristotelous 1 min supercentral Mini studio,4278125,Apartment,427812501,33
+2022-02-17,Atlantis,27922,Budget Double Room - Interior View,2792208,33
+2022-02-17,Atlantis,27922,Budget Double Room - Interior View,2792208,36
+2022-02-17,Atlantis,27922,Budget Twin Room - Interior View,2792213,34
+2022-02-17,Atlantis,27922,Budget Twin Room - Interior View,2792213,37
+2022-02-17,Atlantis,27922,Double Room,2792201,39
+2022-02-17,Atlantis,27922,Double Room,2792201,42
+2022-02-17,Atlantis,27922,Twin Room,2792202,39
+2022-02-17,Atlantis,27922,Twin Room,2792202,42
+2022-02-17,Atlantis,27922,Comfort Triple Room,2792212,53
+2022-02-17,Atlantis,27922,Comfort Triple Room,2792212,58
+2022-02-17,Atlantis,27922,Standard Quadruple Room,2792211,56
+2022-02-17,Atlantis,27922,Standard Quadruple Room,2792211,60
+2022-02-17,Atlantis,27922,Single Room,2792205,29
+2022-02-17,Atlantis,27922,Single Room,2792205,31
+2022-02-17,Vintage,7434356,One-Bedroom Apartment,743435601,31
+2022-02-17,Vintage,7434356,One-Bedroom Apartment,743435601,33
+2022-02-17,Vintage,7434356,One-Bedroom Apartment,743435601,31

@@ -146,7 +146,7 @@ while i < len(links):
     #print("")
     #random_id = randint(100000, 9999999)
     hotel_link = links[i].split('?', 1)[0]
-    #print("Hotel link :"+ hotel_link)
+    print("Hotel link :"+ hotel_link)
     try:
         hotel_id = soup.find('p', class_='hp-lists-counter').attrs['data-hotel-id'].strip() 
     except AttributeError:
@@ -189,94 +189,95 @@ while i < len(links):
 
     table = soup.find('table', class_="hprt-table")
 
-    for row in table.find_all('tr', class_="js-rt-block-row"):
-        # facilities = []
-        #RoomType = table.find('a', class_="hprt-roomtype-link").span.text.strip()
-        roomId = row.attrs['data-block-id'].rsplit('_', 4)[0]
-        #firstRoomId = table.find('a', class_="hprt-roomtype-link").attrs['data-room-id']
-        #print("Room Id:",roomId)
+    if(table is not None):
+        for row in table.find_all('tr', class_="js-rt-block-row"):
+            # facilities = []
+            #RoomType = table.find('a', class_="hprt-roomtype-link").span.text.strip()
+            roomId = row.attrs['data-block-id'].rsplit('_', 4)[0]
+            #firstRoomId = table.find('a', class_="hprt-roomtype-link").attrs['data-room-id']
+            #print("Room Id:",roomId)
 
-        for firstcell in row.find_all('td', class_="-first"):
-            #firstR = firstcell.find('a', class_="hprt-roomtype-link").attrs['data-room-id']
-            roomType = firstcell.find('a', class_="hprt-roomtype-link").span.text.strip()
+            for firstcell in row.find_all('td', class_="-first"):
+                #firstR = firstcell.find('a', class_="hprt-roomtype-link").attrs['data-room-id']
+                roomType = firstcell.find('a', class_="hprt-roomtype-link").span.text.strip()
 
-        for facility_temp in row.find_all('div', class_="hprt-facilities-facility"):
-            facilities.append(facility_temp.span.text.strip())
-        for facility in row.find_all('span', class_="hprt-facilities-facility"):
-            facilities.append(facility.text.strip())
-        #print(facilities)
+            for facility_temp in row.find_all('div', class_="hprt-facilities-facility"):
+                facilities.append(facility_temp.span.text.strip())
+            for facility in row.find_all('span', class_="hprt-facilities-facility"):
+                facilities.append(facility.text.strip())
+            #print(facilities)
 
-        #print(firstR)
-        #if(firstR == roomId):
-            #print("Room Type :",roomType)
-
-
-
-
-
-
-        sleep_temp = row.find('span', class_="bui-u-sr-only").text.strip()
-        if ('-' in sleep_temp):
-            sleep = sleep_temp.split('-')[1].split('g')[0].strip()
-            #print(sleep)
-        else:
-            sleep = sleep_temp.split(':')[1].strip()
-            #print(sleep)
+            #print(firstR)
+            #if(firstR == roomId):
+                #print("Room Type :",roomType)
 
 
 
 
-        #print("Sleeps :",int(sleep))
-
-        price_temp = row.find('span', class_="prco-valign-middle-helper").text.strip()
-        #print(price_temp)
-        temp = re.findall(r'\d+', price_temp)
-        price = list(temp)
-        price = "".join(price)
-        #print("".join(price))
-        
-        #price = price_temp.split('€')[1] 
-        #if ',' in price:
-           #price = price.replace(",", "")
-        
-        #print("Price :",price)
-        # choices_temp = row.find('td', class_="hprt-table-cell-conditions").text
-        # choices = " ".join(choices_temp.split())
-        ul2 = row.find('td', class_="hprt-table-cell-conditions") #'ul', class_="hprt-conditions-bui" #error
-        choices = []
-        for li2 in ul2.find_all('li', class_="bui-list__item"):
-            choice = li2.find('div', class_="bui-list__description").text.strip()
-            choices.append(choice)
-
-        #print(choices)
-        #print("Choices :",choices)
-        select = row.find('select', class_="hprt-nos-select")
-        options = []
-        for option in select.find_all('option'):
-            #print(option.text.strip())
-            options.append(option.text.strip().replace("\n\xa0\n\xa0\xa0\xa0\n"," ").replace("\xa0",""))
-        price_per_room = options[1:]
-        #print("Price per Room :", price_per_room)
-        sleeps = [ {"max_persons": int(sleep), "price": int(price), "choices": choices," price_per_room": price_per_room} ]
-        #print(imgs)
-        rooms += [ {"id": roomId, "type": roomType,"facilities": facilities,"room_imgs":imgs, "sleeps": sleeps}]
-        
-        facilities = []
 
 
-        data = [todate,name,hotel_id,roomType,roomId,price]
-        with open('dpr/'+todate+'-Rooms.csv', 'a', encoding='UTF8', newline='') as f:
-            writer = csv.writer(f)
-            #writer.writerow(header)
-            writer.writerow(data)
-        #print(rooms)
-        #print(sleeps)
-        # for facility_temp in row.find_all('div', class_="hprt-facilities-facility"):
-        #     facilities.append(facility_temp.span.text.strip())
-        # for facility in row.find_all('span', class_="hprt-facilities-facility"):
-        #     facilities.append(facility.text.strip())
-        # print(facilities)
-        # facilities = []
+            sleep_temp = row.find('span', class_="bui-u-sr-only").text.strip()
+            if ('-' in sleep_temp):
+                sleep = sleep_temp.split('-')[1].split('g')[0].strip()
+                #print(sleep)
+            else:
+                sleep = sleep_temp.split(':')[1].strip()
+                #print(sleep)
+
+
+
+
+            #print("Sleeps :",int(sleep))
+
+            price_temp = row.find('span', class_="prco-valign-middle-helper").text.strip()
+            #print(price_temp)
+            temp = re.findall(r'\d+', price_temp)
+            price = list(temp)
+            price = "".join(price)
+            #print("".join(price))
+            
+            #price = price_temp.split('€')[1] 
+            #if ',' in price:
+            #price = price.replace(",", "")
+            
+            #print("Price :",price)
+            # choices_temp = row.find('td', class_="hprt-table-cell-conditions").text
+            # choices = " ".join(choices_temp.split())
+            ul2 = row.find('td', class_="hprt-table-cell-conditions") #'ul', class_="hprt-conditions-bui" #error
+            choices = []
+            for li2 in ul2.find_all('li', class_="bui-list__item"):
+                choice = li2.find('div', class_="bui-list__description").text.strip()
+                choices.append(choice)
+
+            #print(choices)
+            #print("Choices :",choices)
+            select = row.find('select', class_="hprt-nos-select")
+            options = []
+            for option in select.find_all('option'):
+                #print(option.text.strip())
+                options.append(option.text.strip().replace("\n\xa0\n\xa0\xa0\xa0\n"," ").replace("\xa0",""))
+            price_per_room = options[1:]
+            #print("Price per Room :", price_per_room)
+            sleeps = [ {"max_persons": int(sleep), "price": int(price), "choices": choices," price_per_room": price_per_room} ]
+            #print(imgs)
+            rooms += [ {"id": roomId, "type": roomType,"facilities": facilities,"room_imgs":imgs, "sleeps": sleeps}]
+            
+            facilities = []
+
+
+            data = [todate,name,hotel_id,roomType,roomId,price]
+            with open('dpr/'+todate+'-Rooms.csv', 'a', encoding='UTF8', newline='') as f:
+                writer = csv.writer(f)
+                #writer.writerow(header)
+                writer.writerow(data)
+            #print(rooms)
+            #print(sleeps)
+            # for facility_temp in row.find_all('div', class_="hprt-facilities-facility"):
+            #     facilities.append(facility_temp.span.text.strip())
+            # for facility in row.find_all('span', class_="hprt-facilities-facility"):
+            #     facilities.append(facility.text.strip())
+            # print(facilities)
+            # facilities = []
     
     #imgs.clear()
     
