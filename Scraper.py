@@ -34,7 +34,7 @@ basic_datas = my_db["basic_datas"]
 # my_collection.insert_one(test)
 
 
-#my_collection.drop() #gia delete collection
+my_collection.drop() #gia delete collection
 
 # in_month = 1
 # in_day = 20
@@ -108,7 +108,7 @@ pages = np.arange(0, loopnumber+1, 1)
 #print(pages)
 
 for page in pages:
-    temp_link = link+"&rows=25&offset="+str(page*25) #"https://www.booking.com/searchresults.gr.html?checkin_month=6&checkin_monthday=25&checkin_year=2021&checkout_month=6&checkout_monthday=30&checkout_year=2021&group_adults=2&group_children=0&order=price&ss=Kastelorizo%2C%20Greece&offset=0"
+    temp_link = link+"&rows=25&offset="+str(page*25) 
     #print(temp_link)
     offset_page = requests.get(temp_link, headers = headers)
     soup = bs(offset_page.content, 'lxml')
