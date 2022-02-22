@@ -146,7 +146,7 @@ while i < len(links):
     #print("")
     #random_id = randint(100000, 9999999)
     hotel_link = links[i].split('?', 1)[0]
-    print("Hotel link :"+ hotel_link)
+    #print("Hotel link :"+ hotel_link)
     try:
         hotel_id = soup.find('p', class_='hp-lists-counter').attrs['data-hotel-id'].strip() 
     except AttributeError:
